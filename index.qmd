@@ -1,0 +1,10 @@
+
+<center>
+```{r, out.width='20%', out.extra='style="padding:10px"', echo=FALSE}
+knitr::include_graphics("logo.png")
+```
+</center>
+
+[GLHLTH 371 / PSY 309](371.html)
+
+GLHLTH 702

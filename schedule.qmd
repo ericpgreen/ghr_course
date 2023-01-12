@@ -1,0 +1,37 @@
+---
+title: "Schedule"
+description: |
+  Spring 2023
+---
+
+| Week | Date | Module | Session |
+|- | -- | ---- | ----- |
+| 0 | Jan 12 | - | Welcome |
+| 1 | Jan 17 | 1. Getting started | 1.1 Global health research |
+| 1 | Jan 19 | 1. Getting started | 1.2 Build collaborations / Develop research ideas and questions |
+| 2 | Jan 24 | 1. Getting started | 1.3 Search the literature / Read scientific articles |
+| 2 | Jan 26 | 1. Getting started | 1.4 Systematic reviews and meta-analyses |
+| 3 | Jan 31 | 1. Getting started | 1.5 Review/Assess |
+| 3 | Feb 2 | 2. Consider threats to validity | 2.1 Statistical inference |
+| 4 | Feb 7 | 2. Consider threats to validity | 2.2 Causal inference |
+| 4 | Feb 9 | 2. Consider threats to validity | 2.3 Construct validity / External validity |
+| 5 | Feb 14 | 2. Consider threats to validity | 2.4 Review/Assess |
+| 5 | Feb 16 | 3. Select a research design | 3.1 Experimental 1 |
+| 6 | Feb 21 | 3. Select a research design | 3.2 Experimental 2 |
+| 6 | Feb 23 | 3. Select a research design | 3.3 Quasi-experimental 1 |
+| 7 | Feb 28 | 3. Select a research design | 3.4 Quasi-experimental 2 |
+| 7 | Mar 2 | 3. Select a research design | 3.5 Confounder-control |
+| 8 | Mar 7 | 3. Select a research design | 3.6 Descriptive |
+| 8 | Mar 9 | 3. Select a research design | 3.7 Review/Assess |
+| 9 | Mar 21 | 4. Specify the methods | 4.1 Sampling and participant recruitment |
+| 9 | Mar 23 | 4. Specify the methods | 4.2 Power and sample size |
+| 10 | Mar 28 | 4. Specify the methods | 4.3 Data collection |
+| 10 | Mar 30 | 4. Specify the methods | 4.4 Qualitative and mixed methods |
+| 11 | Apr 4 | 4. Specify the methods | 4.5 Review |
+| 11 | Apr 6 | 5. Practice good science | 5.1 Writing grants and study protocols |
+| 12 | Apr 11 | 5. Practice good science | 5.2 Fieldwork and data processing |
+| 12 | Apr 13 | 5. Practice good science | 5.3 Publish and disseminate your work |
+| 13 | Apr 18 | 5. Practice good science | 5.4 Impact policy and practice |
+| 14 | Apr 20 | - | 6.1 Proposal writing session |
+| 14 | Apr 25 | - | 6.2 Peer review session |
+  

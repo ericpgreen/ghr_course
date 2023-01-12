@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Global Health Research"
+  navbar:
+    background: '#1f9ac9'
+    left:
+    - text: "GLHLTH 371 / PSY 309"
+      href: 371.html
+    - text: "Schedule"
+      href: schedule.html
+    - text: "Modules"
+      menu:
+        - text: "Module 1"
+          href: mod1.html
+
+
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
