@@ -37,26 +37,20 @@ So no matter what discipline you call home, or what stage of research you find m
 
 ### During Class
 
+* [Deck](https://drive.google.com/file/d/1P854E-xk4qjNQy3WOUdV4lA-4Q-rhrmX/view?usp=share_link)
+* [Activity](https://docs.google.com/document/d/1iKT2ymNkiAd5ny8Cb6qMgOpU0nysRDn4pA9DR5tpQ20/edit?usp=sharing)
+
 In this activity you will consider where your interests lie in the global health research landscape and identify academic journals that publish work related to these interests.
 
-<iframe src="https://drive.google.com/file/d/1kPIiAOMpilS-NfAJnqTc3z4kkecirnzg/preview" width="100%" height="480"></iframe>
 
-If participating online, each group should make a copy of the [activity sheet](https://docs.google.com/document/d/1iKT2ymNkiAd5ny8Cb6qMgOpU0nysRDn4pA9DR5tpQ20/edit?usp=sharing) and share it with themethodsection at gmail. Please name your file `GLHLTH-XXX-SN-SURNAME-SURNAME`, where "XXX" is the course number and SN" is the session number. 
 
-## 1.2: Build collaborations, develop questions
+## 1.2: Build collaborations / Develop questions
 
 Research ideas take time to develop. You can jumpstart the process by learning about interesting work. Attend talks, watch webinars, meet with mentors, talk with fellow students. Above all else, read the literature. When you are just starting out, try skimming widely read journals to get a sense of current developments in global health disciplines. Follow interesting leads by noting article keywords, inspecting reference lists, and seeking out clues authors leave you in the introduction and discussion.
-
-Once you narrow your focus a bit, try searching scientific databases. If you wade into the open web, watch out for predatory journals masquerading as legitimate science (and hit delete on emails inviting you to publish your work, esteemed ladies and gentlemen).
-
-And please, please use a reference manager to keep track of all the cool science you are reading.
 
 ### Learning Objectives
 
 * Appreciate the process for developing research ideas and identifying potential research problems
-* Conduct an effective literature search
-* Understand options for accessing journal articles
-* Use a reference manager
 
 ### Prepare
 
@@ -65,4 +59,52 @@ And please, please use a reference manager to keep track of all the cool science
 
 ### During Class
 
-TBA
+* [Deck](https://drive.google.com/file/d/1ayhclTHzAFfBXg7KFSTwXU1YeJd7qgJ-/view?usp=share_link)
+* [Activity](https://docs.google.com/document/d/1tP5X-d1nsKQLHXSS1BgcrSUD__NKrjKPAI3lSyM71o8/edit?usp=sharing)
+
+## 1.3: Search the literature / Read scientific articles
+
+Throughout the process of identifying research problems, framing research questions, and designing your study, you'll return over and over to the literature to ensure that your study is informed by prior work and is poised to contribute to your field. In this session you'll learn strategies for searching the literature effectively and managing what you find.
+
+Critical appraisal is an important part of the scientific process. It’s what we do when asked to review a manuscript prior to publication, evaluate a grant proposal, read a new paper published in our field, and prepare a systematic review or meta-analysis. You might feel unprepared to provide critical feedback on someone else’s work until you know more about research methods, designs, and analysis, but it’s easy to get started if you use a framework like the reporting guidelines published by the Equator Network or some of the tools listed below in additional resources. When it’s time to communicate your feedback, be nice. Be critical, be honest about the flaws you perceive, but always be nice and assume that the authors did their best. If their best is not publishable and cannot be fixed with revision, then recommend that the paper be rejected or the grant not funded. It happens. Even in rejecting someone’s work you can offer ideas for improvement.
+
+### Learning Objectives
+
+* Conduct an effective literature search
+* Understand options for accessing journal articles
+* Use a reference manager
+* Critically appraise scientific work
+* Outline the anatomy of a scientific paper
+* Deliver constructive feedback
+
+### Prepare
+
+* Read [old GHR chapter on critical appraisal (use this specific link)](https://read.themethodsection.com/critical.html){target="_blank"}.
+* Review [article skimming template](https://drive.google.com/open?id=1y5X_-368KZtesT78Ic6A0PIF-4MxoSqFHNxF_fSjwNA)
+
+### During Class
+
+* [Activity](https://docs.google.com/document/d/1dpwoN7Cowj5PeNCcEs94AdjlWCzbnj206BJ6Cn1eRys/edit?usp=sharing)
+
+During class we will participate in a workshop led by Duke librarians that will teach you how to construct a research question, design and implement a search strategy, import the results into Zotero, and automatically compile and format bibliographies in a word processor.
+
+## 1.4: Systematic reviews and meta-analyses
+
+Systematic reviews and meta-analyses are great resources for discovering the best scientific evidence about the impact of an intervention on specific clinical, behavioral, or social outcomes. Finding a good review can save you hours of searching and will give you a ready-made search strategy to update or modify.
+
+### Learning Objectives
+
+* Understand how to read and critique a systematic review 
+* Interpret a meta-analysis and forest plot
+
+### Prepare
+
+* Read [old GHR chapter on systematic reviews and meta-analysis](https://read.themethodsection.com/filtered.html){target="_blank"}.
+* Search the [Cochrane Library](http://www.cochranelibrary.com/), [Campbell Collaboration](http://www.campbellcollaboration.org/), [3ie](http://www.3ieimpact.org/evidence/systematic-reviews/), or [Pubmed Clinical Queries](http://www.ncbi.nlm.nih.gov/pubmed/clinical/) to find a systematic review related to your interests. Select a review that includes a meta-analysis. Download or print and bring to class. Be prepared to share a brief summary of the research question and findings.
+
+### During Class
+
+* [Deck](https://drive.google.com/file/d/1OUWu2yXdaKiz4DpRJYovxjCMnLxi1qOk/view?usp=share_link)
+* [Activity](https://docs.google.com/document/d/1FqUt59C9rY44z9d6vhr6K4difCBXGEOunI_qQG6ppWw/edit?usp=sharing)
+
+In this activity you will work with a partner to explore a systematic review on a topic of mutual interest that includes a meta-analysis. The main objectives are to gain a better understanding of how systematic reviews are reported and to practice interpreting a forest plot.
