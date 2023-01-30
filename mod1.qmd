@@ -111,3 +111,9 @@ Systematic reviews and meta-analyses are great resources for discovering the bes
 * [Activity](https://docs.google.com/document/d/1FqUt59C9rY44z9d6vhr6K4difCBXGEOunI_qQG6ppWw/edit?usp=sharing)
 
 In this activity you will work with a partner to explore a systematic review on a topic of mutual interest that includes a meta-analysis. The main objectives are to gain a better understanding of how systematic reviews are reported and to practice interpreting a forest plot.
+
+## Homework
+
+| Assignment                    | Due Date |
+|:------------------------------|:---------|
+| [Module 1 homework](https://docs.google.com/document/d/154DIqlStBf_mQcZEK7ZbtFe7sDgAluu_XgNiKzhzxbM/edit?usp=sharing){target="_blank"}            | Feb 7      |

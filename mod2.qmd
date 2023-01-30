@@ -1,0 +1,33 @@
+---
+title: "Module 2"
+---
+
+## Consider Threats to Validity
+
+By the end of this module, you should be able to:
+
+* Explain the main approaches to statistical inference and threats to statistical conclusion validity
+* Understand the fundamental challenge of causal inference, common causal inference methods, and threats to internal validity
+* Articulate why generalizability matters and the threats to external validity
+* Describe the importance of study measurement and ways to establish construct validity
+
+## 2.1: Statistical inference and statistical conclusion validity
+
+### Prepare
+
+* Read [GHR statistical inference](https://read.themethodsection.com/statisticalinference.html){target="_blank"}.
+
+### During Class
+
+* [Deck](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=sharing)
+* [Activity](TBA)
+
+## 2.2: Causal inference and internal validity
+
+### Prepare
+
+* Read [GHR causal inference](https://ericpgreen.github.io/ghr_ebook/causalinference.html){target="_blank"}.
+
+### During Class
+
+* [Activity](TBA)
