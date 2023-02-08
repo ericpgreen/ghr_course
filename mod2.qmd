@@ -31,3 +31,14 @@ By the end of this module, you should be able to:
 ### During Class
 
 * [Activity](https://docs.google.com/document/d/1GBZz5AGGI1FHlU2lBMprociQHyYZXaS6rBzssuMediM/edit?usp=sharing)
+
+## 2.3: Construct validity and external validity
+
+### Prepare
+
+* Read Shadish, Cook, and Campbell (2002), [Chapter 3](https://moodle2.units.it/pluginfile.php/132646/mod_resource/content/1/Estratto_ShadishCookCampbellExperimental2002.pdf){target="_blank"}.
+* Read Story, W. T., Taleb, F., Ahasan, S. M., & Ali, N. A. (2015). Validating the measurement of social capital in Bangladesh: A cognitive approach. Qualitative health research, 25(6), 806-819. (See Ed post)
+
+### During Class
+
+* [Activity](https://docs.google.com/document/d/1G04p9BjZ12cKmpDU6zcGuHYIPhwoVskWHbklndT2ITE/edit?usp=sharing)
