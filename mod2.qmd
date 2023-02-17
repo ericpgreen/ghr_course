@@ -43,3 +43,10 @@ By the end of this module, you should be able to:
 
 * [Activity](https://docs.google.com/document/d/1G04p9BjZ12cKmpDU6zcGuHYIPhwoVskWHbklndT2ITE/edit?usp=sharing)
 * [Deck](https://docs.google.com/presentation/d/1AEQpqtLfYFTEEDUSQ9IoGC3LQvLFgH-2/edit?usp=share_link&ouid=111142217260807406847&rtpof=true&sd=true)
+
+## Homework
+
+| Assignment                    | Due Date |
+|:------------------------------|:---------|
+| [Module 2 homework](https://docs.google.com/document/d/1DV30QSgUJCVVAIO488k5Ckl5CseCWV_zexasF9T9x4s/edit?usp=sharing){target="_blank"}            | Feb 23      |
+

@@ -1,0 +1,65 @@
+---
+title: "Module 3"
+---
+
+## Consider Threats to Validity
+
+By the end of this module, you should be able to:
+
+
+
+## 3.1: Experimental
+
+### Prepare
+
+* Read 
+
+### During Class
+
+* [Deck]()
+* [Activity]()
+
+## 3.2: Quasi-experimental 1
+
+### Prepare
+
+* Read 
+
+### During Class
+
+* [Deck]()
+* [Activity]()
+
+## 3.3: Quasi-experimental 2
+
+### Prepare
+
+* Read 
+
+### During Class
+
+* [Deck]()
+* [Activity]()
+
+## 3.4: Confounder-control
+
+### Prepare
+
+* Read 
+
+### During Class
+
+* [Deck]()
+* [Activity]()
+
+## 3.5: Descriptive
+
+### Prepare
+
+* Read 
+
+### During Class
+
+* [Deck]()
+* [Activity]()
+

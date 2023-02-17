@@ -14,15 +14,15 @@ description: |
 | 3 | Jan 31 | 1. Getting started | 1.5 Review/Assess |
 | 3 | Feb 2 | 2. Consider threats to validity | [2.1 Statistical inference](https://ericpgreen.github.io/ghr_course/mod2.html#consider-threats-to-validity) |
 | 4 | Feb 7 | 2. Consider threats to validity | [2.2 Causal inference](https://ericpgreen.github.io/ghr_course/mod2.html#statistical-inference-and-statistical-conclusion-validity) |
-| 4 | Feb 9 | 2. Consider threats to validity | 2.3 Construct validity / External validity |
+| 4 | Feb 9 | 2. Consider threats to validity | [2.3 Construct validity / External validity](https://ericpgreen.github.io/ghr_course/mod2.html#construct-validity-and-external-validity) |
 | 5 | Feb 14 | 2. Consider threats to validity | 2.4 More on causal inference |
 | 5 | Feb 16 | 2. Consider threats to validity | 2.5 Review/Assess |
-| 6 | Feb 21 | 3. Select a research design | 3.1 Experimental 2 |
+| 6 | Feb 21 | 3. Select a research design | 3.1 Experimental |
 | 6 | Feb 23 | 3. Select a research design | 3.2 Quasi-experimental 1 |
 | 7 | Feb 28 | 3. Select a research design | 3.3 Quasi-experimental 2 |
-| 7 | Mar 2 | 3. Select a research design | 3.5 Confounder-control |
-| 8 | Mar 7 | 3. Select a research design | 3.6 Descriptive |
-| 8 | Mar 9 | 3. Select a research design | 3.7 Review/Assess |
+| 7 | Mar 2 | 3. Select a research design | 3.4 Confounder-control |
+| 8 | Mar 7 | 3. Select a research design | 3.5 Descriptive |
+| 8 | Mar 9 | 3. Select a research design | 3.6 Review/Assess |
 | 9 | Mar 21 | 4. Specify the methods | 4.1 Sampling and participant recruitment |
 | 9 | Mar 23 | 4. Specify the methods | 4.2 Power and sample size |
 | 10 | Mar 28 | 4. Specify the methods | 4.3 Data collection |
