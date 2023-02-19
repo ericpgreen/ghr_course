@@ -17,6 +17,8 @@ website:
           href: mod1.html
         - text: "Module 2"
           href: mod2.html
+        - text: "Module 3"
+          href: mod3.html
 
 
 
