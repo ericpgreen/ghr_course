@@ -2,61 +2,41 @@
 title: "Module 3"
 ---
 
-## Consider Threats to Validity
+## Select a Research Design
 
 By the end of this module, you should be able to:
 
-
+* Articulate the benefits and limitations of random assignment
+* Explain the logic and limitations of different quasi-experimental and observational designs that can be used when randomization is not possible or ethical
 
 ## 3.1: Experimental
 
+In global health, we're often interested in knowing what treatments, programs, interventions, and policies "work" and why. To answer questions of impact, we often turn to randomized controlled trials, a mainstay of medical research. In this session we'll explore the rationale, process, and limitations of experiments.
+
 ### Prepare
 
-* Read 
+* Read Chapter 2 "Why Randomize?" in Glennerster, R. & Takavarasha, K. (2013). [*Running Randomized Evaluations: A Practical Guide*](https://amzn.to/30cmbdE){target="_blank"} (Box, see pinned post on Ed)
+* Review [CONSORT statement and guidelines](http://www.equator-network.org/reporting-guidelines/consort/){target="_blank"}
+* Skim articles in activity, focus on methods
 
 ### During Class
 
 * [Deck]()
-* [Activity]()
+* [Activity](https://docs.google.com/document/d/1iDar3zonTYEQ3yE1AAiD_-pbwP5Fe8UvWbSJGEzOp1U/edit?usp=sharing)
 
 ## 3.2: Quasi-experimental 1
 
-### Prepare
-
-* Read 
-
-### During Class
-
-* [Deck]()
-* [Activity]()
-
-## 3.3: Quasi-experimental 2
+When randomization is not possible or ethical, we have to rely on nonrandomized studies for causal inference. There are two main types of nonrandomized studies: quasi-experimental and observational. The quasi-experimental designs we'll discuss in this session all feature a cause that is manipulated prior to observing the outcome, but they lack random assignment.  
 
 ### Prepare
 
-* Read 
-
-### During Class
-
-* [Deck]()
-* [Activity]()
-
-## 3.4: Confounder-control
-
-### Prepare
-
-* Read 
-
-### During Class
-
-* [Deck]()
-* [Activity]()
-
-## 3.5: Descriptive
-
-### Prepare
-
-* Read 
+* Review [TREND statement and guidelines](https://www.cdc.gov/trendstatement/){target="_blank"}
+* Read the Introduction and Method sections of the following articles:
+  * **Pre-Post:** Cluver, L., Meinck, F., Yakubovich, A., Doubt, J., Redfern, A., Ward, C., … & Romero, R. H. (2016). Reducing child abuse amongst adolescents in low-and middle-income countries: a pre-post trial in South Africa. [*BMC Public Health, 16(1)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5137206/){target="_blank"}, 567.
+  * **Post-Test Only:** Mitchell, S., Gelman, A., Ross, R., Chen, J., Bari, S., Huynh, U. K., ... & Makela, S. (2018). The Millennium Villages Project: a retrospective, observational, endline evaluation. [*The Lancet Global Health, 6(5)*](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(18)30065-2/fulltext){target="_blank"}, e500-e513.
+  * **Difference-in-Differences:** McKinnon, B., Harper, S., Kaufman, J. S., & Bergevin, Y. (2015). Removing user fees for facility-based delivery services: a difference-in-differences evaluation from ten sub-Saharan African countries. [*Health Policy and Planning, 30(4)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4385820/){target="_blank"}, 432-441.
+  * **Interrupted Time Series:** Rashidian, A., Joudaki, H., Khodayari-Moez, E., Omranikhoo, H., Geraili, B., & Arab, M. (2013). The impact of rural health system reform on hospitalization rates in the Islamic Republic of Iran: an interrupted time series. [*Bulletin of the World Health Organization, 91(12)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3845261/){target="_blank"}, 942-949.
+  * **Regression Discontinuity**: Smith, L. M., Kaufman, J. S., Strumpf, E. C., & Lévesque, L. E. (2015). Effect of human papillomavirus (HPV) vaccination on clinical indicators of sexual behaviour among adolescent girls: The Ontario Grade 8 HPV Vaccine Cohort Study. [*Canadian Medical Association Journal, 187(2)*](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4312170/){target="_blank"}, E74-E81.
 
 ### During Class
 
