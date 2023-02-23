@@ -21,7 +21,7 @@ In global health, we're often interested in knowing what treatments, programs, i
 
 ### During Class
 
-* [Deck]()
+* [Deck](https://drive.google.com/file/d/1KNEZYlgiutbOpZ988-U-z694_KJJUEpK/view?usp=share_link)
 * [Activity](https://docs.google.com/document/d/1iDar3zonTYEQ3yE1AAiD_-pbwP5Fe8UvWbSJGEzOp1U/edit?usp=sharing)
 
 ## 3.2: Quasi-experimental 1
@@ -40,6 +40,18 @@ When randomization is not possible or ethical, we have to rely on nonrandomized 
 
 ### During Class
 
-* [Deck]()
-* [Activity]()
+* [Deck](https://drive.google.com/file/d/1HvfS3P3UglpDcs_IWUKAGBHT8qUZcW9T/view?usp=share_link)
+* [Activity](https://docs.google.com/document/d/1afyOM7V2dUXY0op-h35DA6nOSPcKjUuwVe6UAGT5Nv4/edit?usp=sharing)
+
+#### The quasi-experimentalist John Snow
+
+*This activity was designed by [Amy Finnegan](https://sites.google.com/site/amyfinnegan/home){target="_blank"} (with credit due to [Mastering Metrics](https://www.amazon.com/dp/B00MZG71MC/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1){target="_blank"}). I probably made it less cool with my edits over time.*
+
+Difference-in-difference analysis is one of the oldest tricks in the book. In the mid-1800s, John Snow used this method to discover how residents of London were being infected with cholera.
+
+Snow observed that the Southwark and Vauxhall Company and the Lambeth Company supplied water to high-death-rate districts in South London. Both companies used the Thames—which was highly contaminated—as their water source before 1852. In 1852, the Lambeth Company began to source water from the Thames Ditton river—which was upstream and uncontaminated. Snow was able to show that between 1849 and 1854, districts that remained supplied by the Southwark and Vauxhall Company saw an increase in deaths from cholera while those supplied by the Lambeth Company experienced a reduction in deaths from cholera.
+
+Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"} taken from Snow’s original 1855 article to reproduce Snow’s difference-in-difference estimates.
+
+![](images/snowtable.png)
 
