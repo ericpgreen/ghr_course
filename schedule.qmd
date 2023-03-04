@@ -20,8 +20,8 @@ description: |
 | 6 | Feb 21 | 3. Select a research design | 3.1 Experimental |
 | 6 | Feb 23 | 3. Select a research design | 3.2 Quasi-experimental 1 |
 | 7 | Feb 28 | 3. Select a research design | 3.3 Quasi-experimental 2 |
-| 7 | Mar 2 | 3. Select a research design | 3.4 Confounder-control |
-| 8 | Mar 7 | 3. Select a research design | 3.5 Descriptive |
+| 7 | Mar 2 | 3. Select a research design | 3.4 Quasi-experimental 3 |
+| 8 | Mar 7 | 3. Select a research design | 3.5 Confounder-control / Descriptive |
 | 8 | Mar 9 | 3. Select a research design | 3.6 Review/Assess |
 | 9 | Mar 21 | 4. Specify the methods | 4.1 Sampling and participant recruitment |
 | 9 | Mar 23 | 4. Specify the methods | 4.2 Power and sample size |
