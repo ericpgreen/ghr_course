@@ -15,6 +15,7 @@ In global health, we're often interested in knowing what treatments, programs, i
 
 ### Prepare
 
+* [CYOA diagram](https://drive.google.com/file/d/0Bxn_jkXZ1lxuWkhFcTUzdWVkZ0E/view?usp=sharing&resourcekey=0-9m_tdrVXCaO9MPCTlM_txQ)
 * Read Chapter 2 "Why Randomize?" in Glennerster, R. & Takavarasha, K. (2013). [*Running Randomized Evaluations: A Practical Guide*](https://amzn.to/30cmbdE){target="_blank"} (Box, see pinned post on Ed)
 * Review [CONSORT statement and guidelines](http://www.equator-network.org/reporting-guidelines/consort/){target="_blank"}
 * Skim articles in activity, focus on methods
@@ -57,7 +58,6 @@ Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"}
 
 ## 3.5: Confounder-control / Descriptive
 
-
 ### Prepare
 
 * Review [STROBE statement and guidelines](https://www.strobe-statement.org/index.php?id=strobe-home){target="_blank"}
@@ -72,3 +72,4 @@ Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"}
 
 * [Deck](https://drive.google.com/file/d/1aIeNlvLznIqZaWDuYOOlqqUly2IM9BZ2/view?usp=share_link)
 * [Activity](https://docs.google.com/document/d/1StXoyZW6qQFwOC2iWIBVwESgb1a6wbaQ6eoNb0cE3kU/edit?usp=sharing)
+* [Bonus](https://docs.google.com/document/d/1s4EzHmO0UuBMB0gLj_XFUr-KC0Utx1Vdvn_XzqVuIXE/edit)
