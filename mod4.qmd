@@ -27,6 +27,9 @@ By the end of this module, you should be able to:
 
 ### Prepare
 
+* Chapter 6 "Statistical Power" in Glennerster, R. & Takavarasha, K. (2013). Running Randomized Evaluations: A Practical Guide (Box)
+* [Chapter 8 "Sample Size Justification"](https://lakens.github.io/statistical_inferences/power.html) in Lakens, D. (2022). Improving Your Statistical Inferences. https://doi.org/10.5281/zenodo.6409077
+
 ### During Class
 
 * Deck

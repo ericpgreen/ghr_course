@@ -23,10 +23,10 @@ description: |
 | 7 | Mar 2 | 3. Select a research design | [3.4 Quasi-experimental 3](https://ericpgreen.github.io/ghr_course/mod3.html#quasi-experimental) |
 | 8 | Mar 7 | 3. Select a research design | [3.5 Confounder-control / Descriptive](https://ericpgreen.github.io/ghr_course/mod3.html#confounder-control-descriptive) |
 | 8 | Mar 9 | 3. Select a research design | 3.6 Review/Assess |
-| 9 | Mar 21 | 4. Specify the methods | 4.1 Sampling and participant recruitment |
-| 9 | Mar 23 | 4. Specify the methods | 4.2 Power and sample size |
-| 10 | Mar 28 | 4. Specify the methods | 4.3 Data collection |
-| 10 | Mar 30 | 4. Specify the methods | 4.4 Qualitative and mixed methods |
+| 9 | Mar 21 | 4. Specify the methods | [4.1 Sampling and participant recruitment](https://ericpgreen.github.io/ghr_course/mod4.html#sampling) |
+| 9 | Mar 23 | 4. Specify the methods | [4.2 Power and sample size](https://ericpgreen.github.io/ghr_course/mod4.html#power-and-sample-size) |
+| 10 | Mar 28 | 4. Specify the methods | [4.3 Data collection](https://ericpgreen.github.io/ghr_course/mod4.html#data-collection) |
+| 10 | Mar 30 | 4. Specify the methods | [4.4 Qualitative and mixed methods](https://ericpgreen.github.io/ghr_course/mod4.html#qualitative-and-mixed-methods) |
 | 11 | Apr 4 | 4. Specify the methods | 4.5 Review |
 | 11 | Apr 6 | 5. Practice good science | 5.1 Writing grants and study protocols |
 | 12 | Apr 11 | 5. Practice good science | 5.2 Fieldwork and data processing |
