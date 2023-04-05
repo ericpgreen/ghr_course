@@ -56,3 +56,11 @@ By the end of this module, you should be able to:
 
 * [Deck](https://drive.google.com/file/d/1h29_4gxk7AlYDZsfx1AOACxID7bNdW5m/view?usp=share_link)
 * Activity: Interviewing
+
+## Homework
+
+| Assignment                    | Due Date |
+|:------------------------------|:---------|
+| [Module 4 homework](https://docs.google.com/document/d/1QL3fNAflkj74Cs-RKew4Xk2s-jNIzThgoDHs50nmD0U/edit?usp=sharing){target="_blank"}            | Apr 11      |
+
+
