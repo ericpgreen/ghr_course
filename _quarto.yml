@@ -9,19 +9,14 @@ website:
     left:
     - text: "GLHLTH 371 / PSY 309"
       href: 371.html
+    - text: "GLHLTH 702"
+      href: 702.html
     - text: "Schedule"
       href: schedule.html
     - text: "Modules"
       menu:
         - text: "Module 1"
           href: mod1.html
-        - text: "Module 2"
-          href: mod2.html
-        - text: "Module 3"
-          href: mod3.html
-        - text: "Module 4"
-          href: mod4.html
-
 
 
 format:

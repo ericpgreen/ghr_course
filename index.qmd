@@ -7,4 +7,4 @@ knitr::include_graphics("logo.png")
 
 [GLHLTH 371 / PSY 309](371.html)
 
-GLHLTH 702
+[GLHLTH 702](702.html)

@@ -2,7 +2,7 @@
 title: "Module 1"
 ---
 
-## Getting Started
+## Get Started
 
 By the end of this module, you should be able to:
 
@@ -11,7 +11,7 @@ By the end of this module, you should be able to:
 * Effectively search the literature and make use of systematic reviews and meta-analyses
 * Critically appraise scientific work 
 
-## 1.1: Global health research
+## 1.2: Global health research
 
 Research is defined as a systematic investigation whose goal is to develop or contribute to generalizable knowledge. As global health is the study and practice of improving health and achieving equity in health, global health research research includes all systematic efforts to create generalizable knowledge of how we can improve health and achieve equity in health for everyone, everywhere.
 
@@ -44,7 +44,7 @@ In this activity you will consider where your interests lie in the global health
 
 
 
-## 1.2: Build collaborations / Develop questions
+## 1.3: Build collaborations / Develop questions
 
 Research ideas take time to develop. You can jumpstart the process by learning about interesting work. Attend talks, watch webinars, meet with mentors, talk with fellow students. Above all else, read the literature. When you are just starting out, try skimming widely read journals to get a sense of current developments in global health disciplines. Follow interesting leads by noting article keywords, inspecting reference lists, and seeking out clues authors leave you in the introduction and discussion.
 
@@ -58,14 +58,14 @@ Research ideas take time to develop. You can jumpstart the process by learning a
 ### Prepare
 
 * Read [Revised GHR Chapter 2 (use this specific link)](https://ericpgreen.github.io/ghr_ebook/collaborations.html){target="_blank"}.
-* Read [old GHR chapter on developing research ideas (use this specific link)](https://read.themethodsection.com/ideas.html){target="_blank"}.
+* TBD (link is not working)
 
 ### During Class
 
 * [Deck](https://drive.google.com/file/d/1ayhclTHzAFfBXg7KFSTwXU1YeJd7qgJ-/view?usp=share_link)
 * [Activity](https://docs.google.com/document/d/1tP5X-d1nsKQLHXSS1BgcrSUD__NKrjKPAI3lSyM71o8/edit?usp=sharing)
 
-## 1.3: Search the literature / Read scientific articles
+## 1.4: Search the literature / Read scientific articles
 
 Throughout the process of identifying research problems, framing research questions, and designing your study, you'll return over and over to the literature to ensure that your study is informed by prior work and is poised to contribute to your field. In this session you'll learn strategies for searching the literature effectively and managing what you find.
 
@@ -76,13 +76,15 @@ Critical appraisal is an important part of the scientific process. It’s what w
 * Conduct an effective literature search
 * Understand options for accessing journal articles
 * Use a reference manager
+* Understand how to read and critique a systematic review 
+* Interpret a meta-analysis and forest plot
 * Critically appraise scientific work
 * Outline the anatomy of a scientific paper
 * Deliver constructive feedback
 
 ### Prepare
 
-* Read [old GHR chapter on critical appraisal (use this specific link)](https://read.themethodsection.com/critical.html){target="_blank"}.
+* TBD (link is not working)
 * Review [article skimming template](https://drive.google.com/open?id=1y5X_-368KZtesT78Ic6A0PIF-4MxoSqFHNxF_fSjwNA)
 
 ### During Class
@@ -91,29 +93,9 @@ Critical appraisal is an important part of the scientific process. It’s what w
 
 During class we will participate in a workshop led by Duke librarians that will teach you how to construct a research question, design and implement a search strategy, import the results into Zotero, and automatically compile and format bibliographies in a word processor.
 
-## 1.4: Systematic reviews and meta-analyses
-
-Systematic reviews and meta-analyses are great resources for discovering the best scientific evidence about the impact of an intervention on specific clinical, behavioral, or social outcomes. Finding a good review can save you hours of searching and will give you a ready-made search strategy to update or modify.
-
-### Learning Objectives
-
-* Understand how to read and critique a systematic review 
-* Interpret a meta-analysis and forest plot
-
-### Prepare
-
-* Read [old GHR chapter on systematic reviews and meta-analysis](https://read.themethodsection.com/filtered.html){target="_blank"}.
-* Search the [Cochrane Library](http://www.cochranelibrary.com/), [Campbell Collaboration](http://www.campbellcollaboration.org/), [3ie](http://www.3ieimpact.org/evidence/systematic-reviews/), or [Pubmed Clinical Queries](http://www.ncbi.nlm.nih.gov/pubmed/clinical/) to find a systematic review related to your interests. Select a review that includes a meta-analysis. Download or print and bring to class. Be prepared to share a brief summary of the research question and findings.
-
-### During Class
-
-* [Deck](https://drive.google.com/file/d/1OUWu2yXdaKiz4DpRJYovxjCMnLxi1qOk/view?usp=share_link)
-* [Activity](https://docs.google.com/document/d/1FqUt59C9rY44z9d6vhr6K4difCBXGEOunI_qQG6ppWw/edit?usp=sharing)
-
-In this activity you will work with a partner to explore a systematic review on a topic of mutual interest that includes a meta-analysis. The main objectives are to gain a better understanding of how systematic reviews are reported and to practice interpreting a forest plot.
 
 ## Homework
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 1 homework](https://docs.google.com/document/d/154DIqlStBf_mQcZEK7ZbtFe7sDgAluu_XgNiKzhzxbM/edit?usp=sharing){target="_blank"}            | Feb 7      |
+| [Module 1 homework](https://docs.google.com/document/d/154DIqlStBf_mQcZEK7ZbtFe7sDgAluu_XgNiKzhzxbM/edit?usp=sharing){target="_blank"}            | Sept 21      |
