@@ -58,7 +58,7 @@ Research ideas take time to develop. You can jumpstart the process by learning a
 ### Prepare
 
 * Read [Revised GHR Chapter 2 (use this specific link)](https://ericpgreen.github.io/ghr_ebook/collaborations.html){target="_blank"}.
-* TBD (link is not working)
+* Read [Revised GHR Chapter 3 (use this specific link)](https://ericpgreen.github.io/ghr_ebook/ideas.html){target="_blank"}.
 
 ### During Class
 
@@ -85,6 +85,9 @@ Critical appraisal is an important part of the scientific process. It’s what w
 ### Prepare
 
 * TBD (link is not working)
+* Greenhalgh, T. (1997). How to read a paper: getting your bearings (deciding what the paper is about). [BMJ, 315(7102)](https://doi-org.proxy.lib.duke.edu/10.1136/bmj.315.7102.243), 243-246.
+* Greenhalgh, T. (1997). How to read a paper: Assessing the methodological quality of published papers. [BMJ, 315(7103)](https://doi-org.proxy.lib.duke.edu/10.1136/bmj.315.7103.305), 305-308.
+* [Systematic Literature Review and Meta Analysis](https://youtu.be/TLvF80WIXX8?si=AbbgZFj_XIgIMhOm)
 * Review [article skimming template](https://drive.google.com/open?id=1y5X_-368KZtesT78Ic6A0PIF-4MxoSqFHNxF_fSjwNA)
 
 ### During Class
