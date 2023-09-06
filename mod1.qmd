@@ -84,7 +84,6 @@ Critical appraisal is an important part of the scientific process. It’s what w
 
 ### Prepare
 
-* TBD (link is not working)
 * Greenhalgh, T. (1997). How to read a paper: getting your bearings (deciding what the paper is about). [BMJ, 315(7102)](https://doi-org.proxy.lib.duke.edu/10.1136/bmj.315.7102.243), 243-246.
 * Greenhalgh, T. (1997). How to read a paper: Assessing the methodological quality of published papers. [BMJ, 315(7103)](https://doi-org.proxy.lib.duke.edu/10.1136/bmj.315.7103.305), 305-308.
 * [Systematic Literature Review and Meta Analysis](https://youtu.be/TLvF80WIXX8?si=AbbgZFj_XIgIMhOm)
@@ -93,6 +92,7 @@ Critical appraisal is an important part of the scientific process. It’s what w
 ### During Class
 
 * [Activity](https://docs.google.com/document/d/1dpwoN7Cowj5PeNCcEs94AdjlWCzbnj206BJ6Cn1eRys/edit?usp=sharing)
+* [Deck](https://drive.google.com/file/d/1OUWu2yXdaKiz4DpRJYovxjCMnLxi1qOk/view?usp=drive_link)
 
 During class we will participate in a workshop led by Duke librarians that will teach you how to construct a research question, design and implement a search strategy, import the results into Zotero, and automatically compile and format bibliographies in a word processor.
 
