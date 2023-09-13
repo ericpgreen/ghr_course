@@ -1,0 +1,282 @@
+[
+  {
+    "objectID": "702.html",
+    "href": "702.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Eric Green, PhD\nMaddie Metcalf, TA\nThis course will introduce you to research designs and methods in global health. Global health is a multi-disciplinary field, so we will consider approaches common to the behavioral and social sciences, public health, and medicine.\nOur primary interest will be the study of causal inference. In global health, we are often interested in knowing what treatments, programs, interventions, and policies “work” and why. To answer questions of impact, we often turn to randomized controlled trials, a mainstay of medical research. As such, we will spend time exploring the rationale, process, and limitations of experiments.\nRandomization is not always possible or advisable, however, and researchers must build a causal argument using non-experimental methods. We will review several approaches, consider relevant threats to causal inference, and discuss how to improve non-experimental research designs.\nAlong the way, we will cover research basics, such as asking evidence-based research questions, searching the literature, developing a theory of change, identifying indicators and collecting data, selecting research participants, and testing hypotheses. In the latter part of the course, we will turn to more specialized topics in global health research, such as writing research proposals and manuscripts, economic analyses, and making an impact."
+  },
+  {
+    "objectID": "702.html#course-goals-and-learning-objectives",
+    "href": "702.html#course-goals-and-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Goals and Learning Objectives",
+    "text": "Course Goals and Learning Objectives\nWe have two broad goals this semester:\n\nto make you a better consumer of research; and\nto help you design your first study.\n\nThe course is divided into five modules:\n\nGet started with global health research\nConsider threats to validity\nSelect a research design\nSpecify your methods\nPractice good science and make an impact\n\nBy the end of the semester, you should be able to:\n\nDescribe the landscape of global health research\nBegin developing research ideas\nEffectively search the literature and make use of systematic reviews and meta-analyses\nCritically appraise scientific work\nAsk a good research question and develop study aims and hypotheses\nDevelop a theory of change and logic model\nIdentify indicators to measure throughout the causal chain\nUnderstand the fundamental challenge of causal inference and strategies for building a causal argument\nArticulate the benefits and limitations of random assignment\nExplain the logic and limitations of different quasi-experimental and observational designs that can be used when randomization is not possible or ethical\nSelect the best method of data collection given study objectives and resources\nDevise a sampling strategy to meet study objectives and resources\nDesign a high-powered study\nDescribe common challenges when building research collaborations and articulate strategies for being a good collaborator\nUnderstand the process of ethical review\nExplain the benefits of open science practices to colleagues\nUnderstand how scientists share their work by publishing and giving talks at conferences\nMake a plan to promote the use of research in policymaking"
+  },
+  {
+    "objectID": "702.html#class-format",
+    "href": "702.html#class-format",
+    "title": "Syllabus",
+    "section": "Class Format",
+    "text": "Class Format\nClass sessions will typically begin with a brief lecture designed to reinforce or extend pre-class learning, but the aim is to spend most of the class time on application activities. Activities will be based on assigned readings and will sometimes incorporate the use of tools like R/RStudio. Please review the activity before class, just as you might prepare for a lab in biology or chemistry."
+  },
+  {
+    "objectID": "702.html#resources",
+    "href": "702.html#resources",
+    "title": "Syllabus",
+    "section": "Resources",
+    "text": "Resources\nReadings, videos, and podcasts will be assigned and provided."
+  },
+  {
+    "objectID": "702.html#workload",
+    "href": "702.html#workload",
+    "title": "Syllabus",
+    "section": "Workload",
+    "text": "Workload\nA reasonable rule of thumb is somewhere between 2:1 and 3:1 out-of-class to in-class hours. At the upper end, this is about 100 hours of outside class time this semester."
+  },
+  {
+    "objectID": "702.html#evaluation",
+    "href": "702.html#evaluation",
+    "title": "Syllabus",
+    "section": "Evaluation",
+    "text": "Evaluation\nYour final grade will be a weighted average of several components: application activities, homework, module quizzes, and a study proposal.\nApplication activities: Short activities designed to be completed during class in groups of 2-3. Pass/fail.\nHomework: Assignments generally due one week after the end of the module.\nModule Quizzes: At the conclusion of modules 1-4, we will have a class session where we spend 25 minutes reviewing the material, followed by a 30 minute quiz. In the final 20 minutes of the session we will review the answers.\nStudy proposal: Your study proposal will take the place of the final exam. Details on format and process will be provided.\n\n\n\nComponent\nWeight\n\n\n\n\nIn-class application activities\n20%\n\n\nHomework\n20%\n\n\nQuizzes\n25%\n\n\nStudy proposal\n35%\n\n\n\nRanges for letter grades will be set at the end of the semester, and grades may be curved. Cumulative scores of at least 90, 80, and 70 will be guaranteed at least an A-, B-, and C-, respectively. Please do not ask me to round up your grade."
+  },
+  {
+    "objectID": "702.html#policies",
+    "href": "702.html#policies",
+    "title": "Syllabus",
+    "section": "Policies",
+    "text": "Policies\nPlease note the following:\n\nThere will be no make-ups for missed application activities because we will often review the answers in session and post the answers ASAP. We will excuse up to 4 missed activities for any reason (meaning you do not need to contact us to explain).\nHomework will be due at the start of class on the date indicated on the schedule. Late submissions will be accepted until we share the model answers (could be as soon as later the same day). Late submissions may be penalized.\nIf you miss 1 of the 4 module quizzes, your score on this component will be the average of the 4 remaining quizzes. If you miss more than 1 quiz we may require a dean’s excuse to avoid assigning a score of 0. There will be no make-ups.\nStudents should abide by the Duke Community Standard at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after). Take steps to avoid plagiarism in your work."
+  },
+  {
+    "objectID": "702.html#equity-and-inclusion-at-dghi",
+    "href": "702.html#equity-and-inclusion-at-dghi",
+    "title": "Syllabus",
+    "section": "Equity and Inclusion at DGHI",
+    "text": "Equity and Inclusion at DGHI\nIn 2020 DGHI formed the Equity Task Force to identify and address structural inequities related to global power dynamics, race, ethnicity, gender, and all marginalized identities throughout the institute. See here for more information on this work.\nIf you require any accommodations or arrangements (hearing, vision, English language comprehension, extenuating personal or family circumstances, etc.) please let me know ASAP and, if relevant, please contact the Student Disability Access Office (SDOA) to ensure the accommodation/arrangements can be implemented in a timely fashion."
+  },
+  {
+    "objectID": "mod4.html",
+    "href": "mod4.html",
+    "title": "Module 4",
+    "section": "",
+    "text": "By the end of this module, you should be able to:\n\nIdentify your target population and create a sampling plan\nDetermine how many participants to invite\nSelect the best method of data collection given study objectives and resources"
+  },
+  {
+    "objectID": "mod4.html#sampling",
+    "href": "mod4.html#sampling",
+    "title": "Module 4",
+    "section": "4.1: Sampling",
+    "text": "4.1: Sampling\n\nPrepare\n\nRead Sections 1.3 and 1.4 of OpenIntro Statistics\nWatch this video on sampling from the DHS\nRead the chapter on Power in Running Randomized Evaluations (Box)\n\n\n\nDuring Class\n\nDeck\nActivity"
+  },
+  {
+    "objectID": "mod4.html#power-and-sample-size",
+    "href": "mod4.html#power-and-sample-size",
+    "title": "Module 4",
+    "section": "4.2: Power and Sample Size",
+    "text": "4.2: Power and Sample Size\n\nPrepare\n\nChapter 6 “Statistical Power” in Glennerster, R. & Takavarasha, K. (2013). Running Randomized Evaluations: A Practical Guide (Box)\nChapter 8 “Sample Size Justification” in Lakens, D. (2022). Improving Your Statistical Inferences. https://doi.org/10.5281/zenodo.6409077\n\n\n\nDuring Class\n\nDeck"
+  },
+  {
+    "objectID": "mod4.html#data-collection",
+    "href": "mod4.html#data-collection",
+    "title": "Module 4",
+    "section": "4.3: Data Collection",
+    "text": "4.3: Data Collection\n\nPrepare\n\nJPAL Survey Design\nChapter 5 “Outcomes and Instruments” in Glennerster, R. & Takavarasha, K. (2013). Running Randomized Evaluations: A Practical Guide (Box)\n\n\n\nDuring Class\n\nDeck"
+  },
+  {
+    "objectID": "mod4.html#qualitative-and-mixed-methods",
+    "href": "mod4.html#qualitative-and-mixed-methods",
+    "title": "Module 4",
+    "section": "4.4: Qualitative and Mixed Methods",
+    "text": "4.4: Qualitative and Mixed Methods\n\nPrepare\n\nFHI360 Qualitative Research Methods Field Guide (read Module 1, skim Modules 2-4)\nHaberland, N. A., Kelly, C. A., Mulenga, D. M., Mensch, B. S., & Hewett, P. C. (2016). Women’s perceptions and misperceptions of male circumcision: a mixed methods study in Zambia. PloS one, 11(3), e0149517.\n\n\n\nDuring Class\n\nDeck\nActivity: Interviewing"
+  },
+  {
+    "objectID": "mod4.html#homework",
+    "href": "mod4.html#homework",
+    "title": "Module 4",
+    "section": "Homework",
+    "text": "Homework\n\n\n\nAssignment\nDue Date\n\n\n\n\nModule 4 homework\nApr 11"
+  },
+  {
+    "objectID": "mod1.html",
+    "href": "mod1.html",
+    "title": "Module 1",
+    "section": "",
+    "text": "By the end of this module, you should be able to:\n\nDescribe the landscape of global health research\nBegin developing research ideas\nEffectively search the literature and make use of systematic reviews and meta-analyses\nCritically appraise scientific work"
+  },
+  {
+    "objectID": "mod1.html#global-health-research",
+    "href": "mod1.html#global-health-research",
+    "title": "Module 1",
+    "section": "1.2: Global health research",
+    "text": "1.2: Global health research\nResearch is defined as a systematic investigation whose goal is to develop or contribute to generalizable knowledge. As global health is the study and practice of improving health and achieving equity in health, global health research research includes all systematic efforts to create generalizable knowledge of how we can improve health and achieve equity in health for everyone, everywhere.\nGiven the complexity of our global health challenges, global health research is multidisciplinary and interdisciplinary. This means that, as a budding global health researcher, you will likely collaborate on teams with colleagues from many different fields. Each discipline has its own methodological preferences and core approaches, but we all operate in the same research landscape that is divided into basic and applied research. Much of the literature in global health focuses on our applied challenges, so you will read a lot about clinical research and trials, translational research, implementation research, and M&E (monitoring and evaluation).\nSo no matter what discipline you call home, or what stage of research you find most interesting, you can make great contributions to our collective efforts to improve health and achieve equity in health.\n\nLearning Objectives\n\nUnderstand the definition of global health and what distinguishes global health from other related fields\nExplain what makes research scientific\nDescribe the landscape of global health research\nEnumerate the phases of clinical trials\nDescribe the key actors in the funding and production of global health research/initiatives\nList several scholarly journals that publish global health research\n\n\n\nPrepare\n\nRead Revised GHR Chapter 1 (use this specific link).\nRead “Fighting glioblastoma with recombinant poliovirus”\nThink about where your interests lie in the global health research landscape and be prepared to share with classmates.\nBrowse one or more of the journals that publish global health research and find at least one article that interests you.\n\n\n\nDuring Class\n\nDeck\nActivity\n\nIn this activity you will consider where your interests lie in the global health research landscape and identify academic journals that publish work related to these interests."
+  },
+  {
+    "objectID": "mod1.html#build-collaborations-develop-questions",
+    "href": "mod1.html#build-collaborations-develop-questions",
+    "title": "Module 1",
+    "section": "1.3: Build collaborations / Develop questions",
+    "text": "1.3: Build collaborations / Develop questions\nResearch ideas take time to develop. You can jumpstart the process by learning about interesting work. Attend talks, watch webinars, meet with mentors, talk with fellow students. Above all else, read the literature. When you are just starting out, try skimming widely read journals to get a sense of current developments in global health disciplines. Follow interesting leads by noting article keywords, inspecting reference lists, and seeking out clues authors leave you in the introduction and discussion.\n\nLearning Objectives\n\nAppreciate the process for developing research ideas and identifying potential research problems\nIdentify research goals\nAsk good research questions\nDevelop testable hypotheses\n\n\n\nPrepare\n\nRead Revised GHR Chapter 2 (use this specific link).\nRead Revised GHR Chapter 3 (use this specific link).\n\n\n\nDuring Class\n\nDeck\nActivity"
+  },
+  {
+    "objectID": "mod1.html#search-the-literature-read-scientific-articles",
+    "href": "mod1.html#search-the-literature-read-scientific-articles",
+    "title": "Module 1",
+    "section": "1.4: Search the literature / Read scientific articles",
+    "text": "1.4: Search the literature / Read scientific articles\nThroughout the process of identifying research problems, framing research questions, and designing your study, you’ll return over and over to the literature to ensure that your study is informed by prior work and is poised to contribute to your field. In this session you’ll learn strategies for searching the literature effectively and managing what you find.\nCritical appraisal is an important part of the scientific process. It’s what we do when asked to review a manuscript prior to publication, evaluate a grant proposal, read a new paper published in our field, and prepare a systematic review or meta-analysis. You might feel unprepared to provide critical feedback on someone else’s work until you know more about research methods, designs, and analysis, but it’s easy to get started if you use a framework like the reporting guidelines published by the Equator Network or some of the tools listed below in additional resources. When it’s time to communicate your feedback, be nice. Be critical, be honest about the flaws you perceive, but always be nice and assume that the authors did their best. If their best is not publishable and cannot be fixed with revision, then recommend that the paper be rejected or the grant not funded. It happens. Even in rejecting someone’s work you can offer ideas for improvement.\n\nLearning Objectives\n\nConduct an effective literature search\nUnderstand options for accessing journal articles\nUse a reference manager\nUnderstand how to read and critique a systematic review\nInterpret a meta-analysis and forest plot\nCritically appraise scientific work\nOutline the anatomy of a scientific paper\nDeliver constructive feedback\n\n\n\nPrepare\n\nGreenhalgh, T. (1997). How to read a paper: getting your bearings (deciding what the paper is about). BMJ, 315(7102), 243-246.\nGreenhalgh, T. (1997). How to read a paper: Assessing the methodological quality of published papers. BMJ, 315(7103), 305-308.\nSystematic Literature Review and Meta Analysis\nReview article skimming template\n\n\n\nDuring Class\n\nActivity\nDeck\n\nDuring class we will participate in a workshop led by Duke librarians that will teach you how to construct a research question, design and implement a search strategy, import the results into Zotero, and automatically compile and format bibliographies in a word processor."
+  },
+  {
+    "objectID": "mod1.html#homework",
+    "href": "mod1.html#homework",
+    "title": "Module 1",
+    "section": "Homework",
+    "text": "Homework\n\n\n\nAssignment\nDue Date\n\n\n\n\nModule 1 homework\nSept 21"
+  },
+  {
+    "objectID": "371.html",
+    "href": "371.html",
+    "title": "Syllabus",
+    "section": "",
+    "text": "Eric Green, PhD\nMaddie Metcalf, TA\nThis course will introduce you to research designs and methods in global health. Global health is a multi-disciplinary field, so we will consider approaches common to the behavioral and social sciences, public health, and medicine.\nOur primary interest will be the study of causal inference. In global health, we are often interested in knowing what treatments, programs, interventions, and policies “work” and why. To answer questions of impact, we often turn to randomized controlled trials, a mainstay of medical research. As such, we will spend time exploring the rationale, process, and limitations of experiments.\nRandomization is not always possible or advisable, however, and researchers must build a causal argument using non-experimental methods. We will review several approaches, consider relevant threats to causal inference, and discuss how to improve non-experimental research designs.\nAlong the way, we will cover research basics, such as asking evidence-based research questions, searching the literature, developing a theory of change, identifying indicators and collecting data, selecting research participants, and testing hypotheses. In the latter part of the course, we will turn to more specialized topics in global health research, such as writing research proposals and manuscripts, economic analyses, and making an impact."
+  },
+  {
+    "objectID": "371.html#course-goals-and-learning-objectives",
+    "href": "371.html#course-goals-and-learning-objectives",
+    "title": "Syllabus",
+    "section": "Course Goals and Learning Objectives",
+    "text": "Course Goals and Learning Objectives\nWe have two broad goals this semester:\n\nto make you a better consumer of research; and\nto help you design your first study.\n\nThe course is divided into five modules:\n\nGet started with global health research\nConsider threats to validity\nSelect a research design\nSpecify your methods\nPractice good science and make an impact\n\nBy the end of the semester, you should be able to:\n\nDescribe the landscape of global health research\nBegin developing research ideas\nEffectively search the literature and make use of systematic reviews and meta-analyses\nCritically appraise scientific work\nAsk a good research question and develop study aims and hypotheses\nDevelop a theory of change and logic model\nIdentify indicators to measure throughout the causal chain\nUnderstand the fundamental challenge of causal inference and strategies for building a causal argument\nArticulate the benefits and limitations of random assignment\nExplain the logic and limitations of different quasi-experimental and observational designs that can be used when randomization is not possible or ethical\nSelect the best method of data collection given study objectives and resources\nDevise a sampling strategy to meet study objectives and resources\nDesign a high-powered study\nDescribe common challenges when building research collaborations and articulate strategies for being a good collaborator\nUnderstand the process of ethical review\nExplain the benefits of open science practices to colleagues\nUnderstand how scientists share their work by publishing and giving talks at conferences\nMake a plan to promote the use of research in policymaking"
+  },
+  {
+    "objectID": "371.html#class-format",
+    "href": "371.html#class-format",
+    "title": "Syllabus",
+    "section": "Class Format",
+    "text": "Class Format\nClass sessions will typically begin with a brief lecture designed to reinforce or extend pre-class learning, but the aim is to spend most of the class time on application activities. Activities will be based on assigned readings and will sometimes incorporate the use of tools like R/RStudio. Please review the activity before class, just as you might prepare for a lab in biology or chemistry."
+  },
+  {
+    "objectID": "371.html#resources",
+    "href": "371.html#resources",
+    "title": "Syllabus",
+    "section": "Resources",
+    "text": "Resources\nReadings, videos, and podcasts will be assigned and provided."
+  },
+  {
+    "objectID": "371.html#workload",
+    "href": "371.html#workload",
+    "title": "Syllabus",
+    "section": "Workload",
+    "text": "Workload\nA reasonable rule of thumb is somewhere between 2:1 and 3:1 out-of-class to in-class hours. At the upper end, this is about 100 hours of outside class time this semester."
+  },
+  {
+    "objectID": "371.html#evaluation",
+    "href": "371.html#evaluation",
+    "title": "Syllabus",
+    "section": "Evaluation",
+    "text": "Evaluation\nYour final grade will be a weighted average of several components: application activities, homework, module quizzes, and a study proposal.\nApplication activities: Short activities designed to be completed during class in groups of 2-3. Pass/fail.\nHomework: Assignments generally due one week after the end of the module.\nModule Quizzes: At the conclusion of modules 1-4, we will have a class session where we spend 25 minutes reviewing the material, followed by a 30 minute quiz. In the final 20 minutes of the session we will review the answers.\nStudy proposal: Your study proposal will take the place of the final exam. Details on format and process will be provided.\n\n\n\nComponent\nWeight\n\n\n\n\nIn-class application activities\n20%\n\n\nHomework\n20%\n\n\nQuizzes\n25%\n\n\nStudy proposal\n35%\n\n\n\nRanges for letter grades will be set at the end of the semester, and grades may be curved. Cumulative scores of at least 90, 80, and 70 will be guaranteed at least an A-, B-, and C-, respectively. Please do not ask me to round up your grade."
+  },
+  {
+    "objectID": "371.html#policies",
+    "href": "371.html#policies",
+    "title": "Syllabus",
+    "section": "Policies",
+    "text": "Policies\nPlease note the following:\n\nThere will be no make-ups for missed application activities because we will often review the answers in session and post the answers ASAP. We will excuse up to 4 missed activities for any reason (meaning you do not need to contact us to explain).\nHomework will be due at the start of class on the date indicated on the schedule. Late submissions will be accepted until we share the model answers (could be as soon as later the same day). Late submissions may be penalized.\nIf you miss 1 of the 4 module quizzes, your score on this component will be the average of the 4 remaining quizzes. If you miss more than 1 quiz we may require a dean’s excuse to avoid assigning a score of 0. There will be no make-ups.\nStudents should abide by the Duke Community Standard at all times. If a questionable circumstance arises, do not hesitate to seek my guidance (before is always better than after). Take steps to avoid plagiarism in your work."
+  },
+  {
+    "objectID": "371.html#equity-and-inclusion-at-dghi",
+    "href": "371.html#equity-and-inclusion-at-dghi",
+    "title": "Syllabus",
+    "section": "Equity and Inclusion at DGHI",
+    "text": "Equity and Inclusion at DGHI\nIn 2020 DGHI formed the Equity Task Force to identify and address structural inequities related to global power dynamics, race, ethnicity, gender, and all marginalized identities throughout the institute. See here for more information on this work.\nIf you require any accommodations or arrangements (hearing, vision, English language comprehension, extenuating personal or family circumstances, etc.) please let me know ASAP and, if relevant, please contact the Student Disability Access Office (SDOA) to ensure the accommodation/arrangements can be implemented in a timely fashion."
+  },
+  {
+    "objectID": "mod2.html",
+    "href": "mod2.html",
+    "title": "Module 2",
+    "section": "",
+    "text": "By the end of this module, you should be able to:\n\nExplain the main approaches to statistical inference and threats to statistical conclusion validity\nUnderstand the fundamental challenge of causal inference, common causal inference methods, and threats to internal validity\nArticulate why generalizability matters and the threats to external validity\nDescribe the importance of study measurement and ways to establish construct validity"
+  },
+  {
+    "objectID": "mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity",
+    "href": "mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity",
+    "title": "Module 2",
+    "section": "2.1 and 2.2: Statistical inference and statistical conclusion validity",
+    "text": "2.1 and 2.2: Statistical inference and statistical conclusion validity\n\nPrepare\n\nRead GHR statistical inference.\n\n\n\nDuring Class\n\nActivity\nDeck"
+  },
+  {
+    "objectID": "mod2.html#and-2.4-causal-inference-and-internal-validity",
+    "href": "mod2.html#and-2.4-causal-inference-and-internal-validity",
+    "title": "Module 2",
+    "section": "2.3 and 2.4: Causal inference and internal validity",
+    "text": "2.3 and 2.4: Causal inference and internal validity\n\nPrepare\n\nRead GHR causal inference.\n\n\n\nDuring Class\n\nActivity\nDeck"
+  },
+  {
+    "objectID": "mod2.html#and-2.6-measurement-and-construct-validation",
+    "href": "mod2.html#and-2.6-measurement-and-construct-validation",
+    "title": "Module 2",
+    "section": "2.5 and 2.6: Measurement and construct validation",
+    "text": "2.5 and 2.6: Measurement and construct validation\n\nPrepare\n\nRead GHR measurement.\n\n\n\nDuring Class\n\nActivity\nDeck"
+  },
+  {
+    "objectID": "mod2.html#generalizability-and-external-validity",
+    "href": "mod2.html#generalizability-and-external-validity",
+    "title": "Module 2",
+    "section": "2.7: Generalizability and external validity",
+    "text": "2.7: Generalizability and external validity\n\nPrepare\n\nRead Shadish, Cook, and Campbell (2002), Chapter 3.\n\n\n\nDuring Class\n\nActivity\nDeck"
+  },
+  {
+    "objectID": "mod2.html#homework",
+    "href": "mod2.html#homework",
+    "title": "Module 2",
+    "section": "Homework",
+    "text": "Homework\n\n\n\nAssignment\nDue Date\n\n\n\n\nModule 2 homework\nOct 17"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Global Health Research",
+    "section": "",
+    "text": "GLHLTH 371 / PSY 309\nGLHLTH 702"
+  },
+  {
+    "objectID": "mod3.html",
+    "href": "mod3.html",
+    "title": "Module 3",
+    "section": "",
+    "text": "By the end of this module, you should be able to:\n\nArticulate the benefits and limitations of random assignment\nExplain the logic and limitations of different quasi-experimental and observational designs that can be used when randomization is not possible or ethical"
+  },
+  {
+    "objectID": "mod3.html#experimental",
+    "href": "mod3.html#experimental",
+    "title": "Module 3",
+    "section": "3.1: Experimental",
+    "text": "3.1: Experimental\nIn global health, we’re often interested in knowing what treatments, programs, interventions, and policies “work” and why. To answer questions of impact, we often turn to randomized controlled trials, a mainstay of medical research. In this session we’ll explore the rationale, process, and limitations of experiments.\n\nPrepare\n\nCYOA diagram\nRead Chapter 2 “Why Randomize?” in Glennerster, R. & Takavarasha, K. (2013). Running Randomized Evaluations: A Practical Guide (Box, see pinned post on Ed)\nReview CONSORT statement and guidelines\nSkim articles in activity, focus on methods\n\n\n\nDuring Class\n\nDeck\nActivity"
+  },
+  {
+    "objectID": "mod3.html#quasi-experimental",
+    "href": "mod3.html#quasi-experimental",
+    "title": "Module 3",
+    "section": "3.2-3.4: Quasi-experimental",
+    "text": "3.2-3.4: Quasi-experimental\nWhen randomization is not possible or ethical, we have to rely on nonrandomized studies for causal inference. There are two main types of nonrandomized studies: quasi-experimental and observational. The quasi-experimental designs we’ll discuss in this session all feature a cause that is manipulated prior to observing the outcome, but they lack random assignment.\n\nPrepare\n\nReview TREND statement and guidelines\nRead the Introduction and Method sections of the following articles:\n\nPre-Post: Cluver, L., Meinck, F., Yakubovich, A., Doubt, J., Redfern, A., Ward, C., … & Romero, R. H. (2016). Reducing child abuse amongst adolescents in low-and middle-income countries: a pre-post trial in South Africa. BMC Public Health, 16(1), 567.\nPost-Test Only: Mitchell, S., Gelman, A., Ross, R., Chen, J., Bari, S., Huynh, U. K., … & Makela, S. (2018). The Millennium Villages Project: a retrospective, observational, endline evaluation. The Lancet Global Health, 6(5), e500-e513.\nDifference-in-Differences: McKinnon, B., Harper, S., Kaufman, J. S., & Bergevin, Y. (2015). Removing user fees for facility-based delivery services: a difference-in-differences evaluation from ten sub-Saharan African countries. Health Policy and Planning, 30(4), 432-441.\nInterrupted Time Series: Rashidian, A., Joudaki, H., Khodayari-Moez, E., Omranikhoo, H., Geraili, B., & Arab, M. (2013). The impact of rural health system reform on hospitalization rates in the Islamic Republic of Iran: an interrupted time series. Bulletin of the World Health Organization, 91(12), 942-949.\nRegression Discontinuity: Smith, L. M., Kaufman, J. S., Strumpf, E. C., & Lévesque, L. E. (2015). Effect of human papillomavirus (HPV) vaccination on clinical indicators of sexual behaviour among adolescent girls: The Ontario Grade 8 HPV Vaccine Cohort Study. Canadian Medical Association Journal, 187(2), E74-E81.\n\n\n\n\nDuring Class\n\nDeck\nActivity\n\n\nThe quasi-experimentalist John Snow\nThis activity was designed by Amy Finnegan (with credit due to Mastering Metrics). I probably made it less cool with my edits over time.\nDifference-in-difference analysis is one of the oldest tricks in the book. In the mid-1800s, John Snow used this method to discover how residents of London were being infected with cholera.\nSnow observed that the Southwark and Vauxhall Company and the Lambeth Company supplied water to high-death-rate districts in South London. Both companies used the Thames—which was highly contaminated—as their water source before 1852. In 1852, the Lambeth Company began to source water from the Thames Ditton river—which was upstream and uncontaminated. Snow was able to show that between 1849 and 1854, districts that remained supplied by the Southwark and Vauxhall Company saw an increase in deaths from cholera while those supplied by the Lambeth Company experienced a reduction in deaths from cholera.\nUse this table taken from Snow’s original 1855 article to reproduce Snow’s difference-in-difference estimates."
+  },
+  {
+    "objectID": "mod3.html#confounder-control-descriptive",
+    "href": "mod3.html#confounder-control-descriptive",
+    "title": "Module 3",
+    "section": "3.5: Confounder-control / Descriptive",
+    "text": "3.5: Confounder-control / Descriptive\n\nPrepare\n\nReview STROBE statement and guidelines\nRead the Introduction and Method sections of the following articles:\n\nCase Report: Centers for Disease Control CDC. (1981). Pneumocystis pneumonia–Los Angeles. MMWR. Morbidity and mortality weekly report, 30(21).\nCross-Sectional: Ahmed, S., Choi, Y., Rimon, J. G., Alzouma, S., Gichangi, P., Guiella, G., … & Omoluabi, E. (2019). Trends in contraceptive prevalence rates in sub-Saharan Africa since the 2012 London Summit on Family Planning: results from repeated cross-sectional surveys. The Lancet Global Health, 7(7), e904-e911.\nCase-Control: Shrivastava, A., Kumar, A., Thomas, J. D., Laserson, K. F., Bhushan, G., Carter, M. D., … & Dwivedi, M. (2017). Association of acute toxic encephalopathy with litchi consumption in an outbreak in Muzaffarpur, India, 2014: a case-control study. The Lancet Global Health, 5(4), e458-e466.\nRetrospective Cohort: Shah, T., Greig, J., van der Plas, L. M., Achar, J., Caleo, G., Squire, J. S., … & Vogt, F. (2016). Inpatient signs and symptoms and factors associated with death in children aged 5 years and younger admitted to two Ebola management centres in Sierra Leone, 2014: a retrospective cohort study. The Lancet Global Health, 4(7), e495-e501.\nProspective Cohort: Oliosi, J. G. N., Reis-Santos, B., Locatelli, R. L., Sales, C. M. M., da Silva Filho, W. G., da Silva, K. C., … & Pereira, S. M. (2019). Effect of the Bolsa Familia Programme on the outcome of tuberculosis treatment: a prospective cohort study. The Lancet Global Health, 7(2), e219-e226.\n\n\n\n\nDuring Class\n\nDeck\nActivity\nBonus"
+  },
+  {
+    "objectID": "mod3.html#homework",
+    "href": "mod3.html#homework",
+    "title": "Module 3",
+    "section": "Homework",
+    "text": "Homework\n\n\n\nAssignment\nDue Date\n\n\n\n\nModule 3 homework\nMar 23"
+  },
+  {
+    "objectID": "schedule.html",
+    "href": "schedule.html",
+    "title": "Schedule",
+    "section": "",
+    "text": "Week\nDate\nModule\nSession\n\n\n\n\n1\nAug 29\n-\n1.1 Welcome\n\n\n1\nAug 31\n1. Get started\n1.2 Global health research\n\n\n2\nSept 5\n1. Get started\n1.3 Build collaborations / Develop research ideas and questions\n\n\n2\nSept 7\n1. Get started\n1.4 Search the literature / Read scientific articles\n\n\n3\nSept 12\n1. Get started\n1.5 Review/Assess\n\n\n3\nSept 14\n2. Consider threats to validity\n2.1 Statistical inference and statistical conclusion validity\n\n\n4\nSept 19\n2. Consider threats to validity\n2.2 Statistical inference and statistical conclusion validity\n\n\n4\nSept 21\n2. Consider threats to validity\n2.3 Causal inference and internal validity\n\n\n5\nSept 26\n2. Consider threats to validity\n2.4 Causal inference and internal validity\n\n\n5\nSept 28\n2. Consider threats to validity\n2.5 Measurement and construct validity\n\n\n6\nOct 3\n2. Consider threats to validity\n2.6 Measurement and construct validity\n\n\n6\nOct 5\n2. Consider threats to validity\n2.7 Generalizability and external validity\n\n\n7\nOct 10\n2. Consider threats to validity\n2.8 Review/Assess\n\n\n7\nOct 12\n3. Select a research design\n3.1 Experimental\n\n\n8\nOct 19\n3. Select a research design\n3.2 Experimental\n\n\n9\nOct 24\n3. Select a research design\n3.3 Quasi-experimental\n\n\n9\nOct 26\n3. Select a research design\n3.4 Quasi-experimental\n\n\n10\nOct 31\n3. Select a research design\n3.5 Confounder-control\n\n\n10\nNov 2\n3. Select a research design\n3.6 Descriptive\n\n\n11\nNov 7\n3. Select a research design\n3.7 Review/Assess\n\n\n11\nNov 9\n4. Specify the methods\n4.1 Sampling and participant recruitment\n\n\n12\nNov 14\n4. Specify the methods\n4.2 Power and sample size\n\n\n12\nNov 16\n4. Specify the methods\n4.3 Data collection\n\n\n13\nNov 21\n4. Specify the methods\n4.4 Review/Assess\n\n\n14\nNov 28\n5. Practice good science\n5.1 Writing grants and study protocols / Conducting fieldwork and managing data\n\n\n14\nNov 30\n5. Practice good science\n5.2 Publishing and disseminating your work / Impacting policy and practice\n\n\n15\nDec 5\n-\nPeer review session (371 only)\n\n\n15\nDec 7\n-\nWriting workshop (371 only)"
+  }
+]
