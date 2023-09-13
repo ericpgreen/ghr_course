@@ -11,7 +11,7 @@ By the end of this module, you should be able to:
 * Articulate why generalizability matters and the threats to external validity
 * Describe the importance of study measurement and ways to establish construct validity
 
-## 2.1: Statistical inference and statistical conclusion validity
+## 2.1 and 2.2: Statistical inference and statistical conclusion validity
 
 ### Prepare
 
@@ -19,10 +19,10 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* [Deck](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=sharing)
-* [Activity](TBA)
+* Activity
+* Deck
 
-## 2.2: Causal inference and internal validity
+## 2.3 and 2.4: Causal inference and internal validity
 
 ### Prepare
 
@@ -30,23 +30,38 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* [Activity](https://docs.google.com/document/d/1GBZz5AGGI1FHlU2lBMprociQHyYZXaS6rBzssuMediM/edit?usp=sharing)
+* Activity
+* Deck
 
-## 2.3: Construct validity and external validity
+## 2.5 and 2.6: Measurement and construct validation
+
+### Prepare
+
+* Read [GHR causal inference](https://ericpgreen.github.io/ghr_ebook/construct.html){target="_blank"}.
+
+### During Class
+
+* Activity
+* Deck
+
+
+## 2.7: Generalizability and external validity
 
 ### Prepare
 
 * Read Shadish, Cook, and Campbell (2002), [Chapter 3](https://moodle2.units.it/pluginfile.php/132646/mod_resource/content/1/Estratto_ShadishCookCampbellExperimental2002.pdf){target="_blank"}.
-* Read Story, W. T., Taleb, F., Ahasan, S. M., & Ali, N. A. (2015). Validating the measurement of social capital in Bangladesh: A cognitive approach. Qualitative health research, 25(6), 806-819. (See Ed post)
 
 ### During Class
 
-* [Activity](https://docs.google.com/document/d/1G04p9BjZ12cKmpDU6zcGuHYIPhwoVskWHbklndT2ITE/edit?usp=sharing)
-* [Deck](https://docs.google.com/presentation/d/1AEQpqtLfYFTEEDUSQ9IoGC3LQvLFgH-2/edit?usp=share_link&ouid=111142217260807406847&rtpof=true&sd=true)
+* Activity
+* Deck
+
+
+
 
 ## Homework
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 2 homework](https://docs.google.com/document/d/1DV30QSgUJCVVAIO488k5Ckl5CseCWV_zexasF9T9x4s/edit?usp=sharing){target="_blank"}            | Feb 23      |
+| [Module 2 homework](https://docs.google.com/document/d/1DV30QSgUJCVVAIO488k5Ckl5CseCWV_zexasF9T9x4s/edit?usp=sharing){target="_blank"}            | Oct 17      |
 
