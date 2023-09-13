@@ -37,7 +37,7 @@ By the end of this module, you should be able to:
 
 ### Prepare
 
-* Read [GHR causal inference](https://ericpgreen.github.io/ghr_ebook/construct.html){target="_blank"}.
+* Read [GHR measurement](https://ericpgreen.github.io/ghr_ebook/construct.html){target="_blank"}.
 
 ### During Class
 
