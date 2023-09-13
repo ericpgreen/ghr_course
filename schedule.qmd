@@ -11,7 +11,7 @@ description: |
 | 2 | Sept 5 | 1. Get started | [1.3 Build collaborations / Develop research ideas and questions](mod1.html#build-collaborations-develop-questions) |
 | 2 | Sept 7 | 1. Get started | [1.4 Search the literature / Read scientific articles](mod1.html#search-the-literature-read-scientific-articles) |
 | 3 | Sept 12 | 1. Get started | 1.5 Review/Assess |
-| 3 | Sept 14 | 2. Consider threats to validity | [2.1 Statistical inference and statistical conclusion validity](mod1.html) |
+| 3 | Sept 14 | 2. Consider threats to validity | [2.1 Statistical inference and statistical conclusion validity](mod2.html) |
 | 4 | Sept 19 | 2. Consider threats to validity | 2.2 Statistical inference and statistical conclusion validity |
 | 4 | Sept 21 | 2. Consider threats to validity | 2.3 Causal inference and internal validity |
 | 5 | Sept 26 | 2. Consider threats to validity | 2.4 Causal inference and internal validity |
