@@ -15,7 +15,7 @@ By the end of this module, you should be able to:
 
 ### Prepare
 
-* Read [GHR statistical inference](https://read.themethodsection.com/statisticalinference.html){target="_blank"}.
+* Read [GHR statistical inference](https://ericpgreen.github.io/ghr_ebook/statinference.html){target="_blank"}.
 
 ### During Class
 
