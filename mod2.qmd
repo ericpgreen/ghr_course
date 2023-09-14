@@ -19,8 +19,8 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* Activity
-* Deck
+* [Activity 1](https://docs.google.com/document/d/1beOhGCdEdwXHM6l1T8KDmnIPOm84vAQ8oEOxgbnH8g4/edit?usp=sharing)
+* [Deck 1](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=drive_link)
 
 ## 2.3 and 2.4: Causal inference and internal validity
 
