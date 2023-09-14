@@ -16,6 +16,8 @@ By the end of this module, you should be able to:
 ### Prepare
 
 * Read [GHR statistical inference](https://ericpgreen.github.io/ghr_ebook/statinference.html){target="_blank"}.
+* Read [Resnick (2019)](https://www.vox.com/latest-news/2019/3/22/18275913/statistical-significance-p-values-explained)
+* Read [Modern Dive, Chapter 9 (sections 9.1 and 9.2)](https://moderndive.com/9-hypothesis-testing.html#nhst-conclusion)
 
 ### During Class
 
