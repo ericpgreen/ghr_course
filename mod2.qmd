@@ -22,7 +22,8 @@ By the end of this module, you should be able to:
 ### During Class
 
 * [Activity 1](https://docs.google.com/document/d/1beOhGCdEdwXHM6l1T8KDmnIPOm84vAQ8oEOxgbnH8g4/edit?usp=sharing)
-* [Deck 1](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=drive_link)
+* [Deck](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=drive_link)
+* Activity 2: On Posit Cloud
 
 ## 2.3 and 2.4: Causal inference and internal validity
 
@@ -32,8 +33,7 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* Activity
-* Deck
+* [Deck with activities](activities/2.3_causal-inference.html)
 
 ## 2.5 and 2.6: Measurement and construct validation
 

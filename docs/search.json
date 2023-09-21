@@ -200,14 +200,14 @@
     "href": "mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity",
     "title": "Module 2",
     "section": "2.1 and 2.2: Statistical inference and statistical conclusion validity",
-    "text": "2.1 and 2.2: Statistical inference and statistical conclusion validity\n\nPrepare\n\nRead GHR statistical inference.\nRead Resnick (2019)\nRead Modern Dive, Chapter 9 (sections 9.1 and 9.2)\n\n\n\nDuring Class\n\nActivity 1\nDeck 1"
+    "text": "2.1 and 2.2: Statistical inference and statistical conclusion validity\n\nPrepare\n\nRead GHR statistical inference.\nRead Resnick (2019)\nRead Modern Dive, Chapter 9 (sections 9.1 and 9.2)\n\n\n\nDuring Class\n\nActivity 1\nDeck\nActivity 2: On Posit Cloud"
   },
   {
     "objectID": "mod2.html#and-2.4-causal-inference-and-internal-validity",
     "href": "mod2.html#and-2.4-causal-inference-and-internal-validity",
     "title": "Module 2",
     "section": "2.3 and 2.4: Causal inference and internal validity",
-    "text": "2.3 and 2.4: Causal inference and internal validity\n\nPrepare\n\nRead GHR causal inference.\n\n\n\nDuring Class\n\nActivity\nDeck"
+    "text": "2.3 and 2.4: Causal inference and internal validity\n\nPrepare\n\nRead GHR causal inference.\n\n\n\nDuring Class\n\nDeck with activities"
   },
   {
     "objectID": "mod2.html#and-2.6-measurement-and-construct-validation",
@@ -271,6 +271,209 @@
     "title": "Module 3",
     "section": "Homework",
     "text": "Homework\n\n\n\nAssignment\nDue Date\n\n\n\n\nModule 3 homework\nMar 23"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#observational-findings",
+    "href": "activities/2.3_causal-inference.html#observational-findings",
+    "title": "Causal Inference",
+    "section": "Observational Findings",
+    "text": "Observational Findings\nDing et al. (2015) conducted a pooled analysis of three large prospective cohort studies of health professionals in the U.S. (95% white) followed for up to 36 years:\n\nHigher consumption of total coffee, caffeinated coffee, and decaffeinated coffee was associated with lower risk of total mortality…Relative to no consumption of coffee, the pooled hazard ratio for death was 0.95 (95% confidence interval [CI], 0.91–0.99) for 1.0 or less cup of total coffee per day.\n\nIn other words, the sort of people who drink a cup of coffee daily have a 5% lower risk of dying over 2 to 3 decades."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#causal-deniability",
+    "href": "activities/2.3_causal-inference.html#causal-deniability",
+    "title": "Causal Inference",
+    "section": "Causal Deniability",
+    "text": "Causal Deniability\nDoes this mean that coffee prevents death? The study authors say no. But also, maybe!\nStep 1: Avoid the word “causal” and warn that correlation is not causation.\n\n…given the observational nature of the study design, we could not directly establish a cause-effect relationship between coffee and mortality."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#causal-deniability-1",
+    "href": "activities/2.3_causal-inference.html#causal-deniability-1",
+    "title": "Causal Inference",
+    "section": "Causal Deniability",
+    "text": "Causal Deniability\nDoes this mean that coffee prevents death? The study authors say no. But also, maybe!\nStep 1: Avoid the word “causal” and warn that correlation is not causation.\nStep 2: Ignore the warning and make policy or health recommendations based on a causal interpretation of the findings.\n\n…coffee consumption can be incorporated into a healthy lifestyle…moderate consumption of coffee may confer health benefits in terms of reducing premature death.\n\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#so-which-is-it-a-non-causal-association-or-a-causal-effect",
+    "href": "activities/2.3_causal-inference.html#so-which-is-it-a-non-causal-association-or-a-causal-effect",
+    "title": "Causal Inference",
+    "section": "So which is it, a non-causal association or a causal effect?",
+    "text": "So which is it, a non-causal association or a causal effect?\nHernán (2018) argues that scientists need to stop the charade:\n\nWe need to stop treating “causal” as a dirty word that respectable investigators do not say in public or put in print. It is true that observational studies cannot definitely prove causation, but this statement misses the point…\n\nAccording to Hernán, the point is that we have to be clear about our scientific goals and use language that reflects these goals."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#what-is-our-goal-what-do-we-want-to-know",
+    "href": "activities/2.3_causal-inference.html#what-is-our-goal-what-do-we-want-to-know",
+    "title": "Causal Inference",
+    "section": "What is our goal? What do we want to know?",
+    "text": "What is our goal? What do we want to know?\n\nA. Whether the sort of people who drink a cup of coffee daily have a lower risk of dying\nB. Whether drinking a cup of coffee daily lowers the risk of dying?"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#what-is-our-goal-what-do-we-want-to-know-1",
+    "href": "activities/2.3_causal-inference.html#what-is-our-goal-what-do-we-want-to-know-1",
+    "title": "Causal Inference",
+    "section": "What is our goal? What do we want to know?",
+    "text": "What is our goal? What do we want to know?\n\nA. Whether the sort of people who drink a cup of coffee daily have a lower risk of dying\nB. Whether drinking a cup of coffee daily lowers the risk of dying?"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#to-answer-this-question-we-need-causal-inference",
+    "href": "activities/2.3_causal-inference.html#to-answer-this-question-we-need-causal-inference",
+    "title": "Causal Inference",
+    "section": "To answer this question we need causal inference",
+    "text": "To answer this question we need causal inference\n\nA. Whether the sort of people who drink a cup of coffee daily have a lower risk of dying\nB. Whether drinking a cup of coffee daily lowers the risk of dying?"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#causal-inference-1",
+    "href": "activities/2.3_causal-inference.html#causal-inference-1",
+    "title": "Causal Inference",
+    "section": "Causal Inference",
+    "text": "Causal Inference\nCausal inference is what we do when we identify and estimate the causal effect of some proposed cause on an outcome of interest."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#counterfactual-thinking",
+    "href": "activities/2.3_causal-inference.html#counterfactual-thinking",
+    "title": "Causal Inference",
+    "section": "Counterfactual Thinking",
+    "text": "Counterfactual Thinking\nCausal inference is an exercise in counterfactual thinking, full of “what if” questions about the road not taken.\nA counterfactual is the hypothetical state of a “what if” question. With counterfactual thinking, there is what actually happened, and then there is the hypothetical counterfactual of what would have happened, counter to fact, under the alternative scenario. The difference between what did happen and what would have happened is a known as the causal effect."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#back-to-reality",
+    "href": "activities/2.3_causal-inference.html#back-to-reality",
+    "title": "Causal Inference",
+    "section": "Back to Reality",
+    "text": "Back to Reality\nWe’re not all knowing, of course, and we only get to observe one potential outcome for each person. This means we have to estimate the ATE by comparing people like Robert who take the road less traveled to people who take the road more traveled. But how do people come to take one road versus the other?\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#who-gets-treated",
+    "href": "activities/2.3_causal-inference.html#who-gets-treated",
+    "title": "Causal Inference",
+    "section": "Who Gets “Treated”?",
+    "text": "Who Gets “Treated”?\nLet’s consider two scenarios:\n\nTravelers are randomly assigned to a road. They come to the fork in the road and pull directions out of a hat.\nTravelers select a road themselves. They go with their gut and all happen to pick the road that maximizes their individual happiness."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#randomization-neutralizes-selection-bias",
+    "href": "activities/2.3_causal-inference.html#randomization-neutralizes-selection-bias",
+    "title": "Causal Inference",
+    "section": "Randomization Neutralizes Selection Bias…",
+    "text": "Randomization Neutralizes Selection Bias…\nThe simple difference in outcomes between groups consists of the average treatment effect + bias. Under perfect randomization, there is no bias, so the difference in outcomes is just the ATE."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#but-randomization-is-not-always-possible-or-maintained",
+    "href": "activities/2.3_causal-inference.html#but-randomization-is-not-always-possible-or-maintained",
+    "title": "Causal Inference",
+    "section": "…But Randomization is Not Always Possible or Maintained",
+    "text": "…But Randomization is Not Always Possible or Maintained\nMost research is non-experimental, or what many would call observational. Selection bias is always a concern in these studies. Our only defense against being fooled by selection bias is research design and statistical adjustment. As Cunningham (2020) states:\n\nOne could argue that the entire enterprise of causal inference is about developing a reasonable strategy for negating the role that selection bias is playing in estimated causal effects."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#causal-inference-methods",
+    "href": "activities/2.3_causal-inference.html#causal-inference-methods",
+    "title": "Causal Inference",
+    "section": "Causal Inference Methods",
+    "text": "Causal Inference Methods\nMatthay et al. (2020) divide non-experimental approaches to causal inference into two main buckets: confounder-control and instrument-based.1\nConfounder-control is characterized by the use of statistical adjustment to make groups more comparable.\nInstrument-based studies, sometimes called quasi-experimental designs, estimate treatment effects by finding and leveraging arbitrary reasons why some people are more likely to be treated or exposed.\nYou might also come across references to Bradford Hill’s Considerations and the sufficient-component cause model."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#data-are-dumb",
+    "href": "activities/2.3_causal-inference.html#data-are-dumb",
+    "title": "Causal Inference",
+    "section": "Data Are Dumb",
+    "text": "Data Are Dumb\nAs Pearl and Mackenzie tell us in the Book of Why, cofounder control is not just an exercise in statistics because data are profoundly dumb. A dataset cannot tell us which variables to adjust for, or what is a cause and what is an effect. For that we need information that lives outside of statistical models. We need causal models that are informed by domain expertise (McElreath, 2020)."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#dag",
+    "href": "activities/2.3_causal-inference.html#dag",
+    "title": "Causal Inference",
+    "section": "DAG",
+    "text": "DAG"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#section-14",
+    "href": "activities/2.3_causal-inference.html#section-14",
+    "title": "Causal Inference",
+    "section": "",
+    "text": "−+\n02:00"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#effect-identification",
+    "href": "activities/2.3_causal-inference.html#effect-identification",
+    "title": "Causal Inference",
+    "section": "Effect Identification",
+    "text": "Effect Identification\nNext we need to determine which paths are good and which are bad (Huntington-Klein, 2021). “Good paths” identify our research question. “Bad paths” are the alternate explanations for the causal effect that we need to close. In our example DAG, as in many DAGS, good paths often start with an arrow exiting the proposed cause and bad paths have arrows entering the proposed cause.\n\n\n\n−+\n01:00"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#simulated-example-ate1.5",
+    "href": "activities/2.3_causal-inference.html#simulated-example-ate1.5",
+    "title": "Causal Inference",
+    "section": "Simulated Example (ATE=1.5)",
+    "text": "Simulated Example (ATE=1.5)"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#draw-a-dag-with-a-partner",
+    "href": "activities/2.3_causal-inference.html#draw-a-dag-with-a-partner",
+    "title": "Causal Inference",
+    "section": "Draw a DAG with a Partner",
+    "text": "Draw a DAG with a Partner\nThe research question is:\nDoes using a mosquito net decrease an individual’s risk of contracting malaria?\nImagine that you can collect data on environmental factors, individual health, and household characteristics, but you cannot randomly assign households to receive or use mosquito nets. You have to answer this question with an observational study.1\nWhat is in your DAG?\n\n\n\n−+\n03:00\n\n\n\nThis really nice example comes from Andrew Heiss."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#list-the-pathways",
+    "href": "activities/2.3_causal-inference.html#list-the-pathways",
+    "title": "Causal Inference",
+    "section": "List the Pathways",
+    "text": "List the Pathways\n\n\n\n\n\n\nThere is a direct path between mosquito net use and the risk of malaria, but the effect is not causally identified due to several other open paths. List all of the paths and find which open paths have arrows pointing backwards into the mosquito net node.\n\n\n\n\n\n−+\n03:00"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#two-shortcuts",
+    "href": "activities/2.3_causal-inference.html#two-shortcuts",
+    "title": "Causal Inference",
+    "section": "Two Shortcuts",
+    "text": "Two Shortcuts\nDrawing DAGs by hand is a good learning exercise, but there is an easier way:\n\nDraw your DAG on DAGitty.net\nCopy the code\nPaste the code into R\nIn R use the {dagitty} package to analyze your DAG"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#paste-code-into-r",
+    "href": "activities/2.3_causal-inference.html#paste-code-into-r",
+    "title": "Causal Inference",
+    "section": "Paste Code into R",
+    "text": "Paste Code into R\n\nCodePlot\n\n\n\n# Load packages\nlibrary(dagitty)   \n\n# 'content between quotes' pasted from DAGitty.net\nmosquito_dag <- dagitty('dag {\n  bb=\"0,0,1,1\"\n  \"eligible for program\" [pos=\"0.303,0.552\"]\n  \"household size\" [pos=\"0.222,0.393\"]\n  \"insecticide resistance\" [pos=\"0.623,0.251\"]\n  \"mosquito net\" [exposure,pos=\"0.338,0.393\"]\n  \"nighttime temps\" [pos=\"0.471,0.273\"]\n  \"risk of malaria\" [outcome,pos=\"0.616,0.396\"]\n  health [pos=\"0.469,0.493\"]\n  income [pos=\"0.473,0.697\"]\n  \"eligible for program\" -> \"mosquito net\"\n  \"household size\" -> \"eligible for program\"\n  \"household size\" -> \"mosquito net\"\n  \"insecticide resistance\" -> \"risk of malaria\"\n  \"mosquito net\" -> \"risk of malaria\"\n  \"nighttime temps\" -> \"mosquito net\"\n  \"nighttime temps\" -> \"risk of malaria\"\n  health -> \"mosquito net\"\n  health -> \"risk of malaria\"\n  income -> \"eligible for program\"\n  income -> \"mosquito net\"\n  income -> \"risk of malaria\"\n  income -> health\n  }'\n)\n\nplot(mosquito_dag)"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#identify-open-paths",
+    "href": "activities/2.3_causal-inference.html#identify-open-paths",
+    "title": "Causal Inference",
+    "section": "Identify Open Paths",
+    "text": "Identify Open Paths\nHeiss demonstrates how to use {dagitty} package to test assumptions, list pathways, and identify the minimal adjustment sets.\n\npaths(mosquito_dag)\n\n$paths\n [1] \"\\\"mosquito net\\\" -> \\\"risk of malaria\\\"\"                                                                      \n [2] \"\\\"mosquito net\\\" <- \\\"eligible for program\\\" <- income -> \\\"risk of malaria\\\"\"                                \n [3] \"\\\"mosquito net\\\" <- \\\"eligible for program\\\" <- income -> health -> \\\"risk of malaria\\\"\"                      \n [4] \"\\\"mosquito net\\\" <- \\\"household size\\\" -> \\\"eligible for program\\\" <- income -> \\\"risk of malaria\\\"\"          \n [5] \"\\\"mosquito net\\\" <- \\\"household size\\\" -> \\\"eligible for program\\\" <- income -> health -> \\\"risk of malaria\\\"\"\n [6] \"\\\"mosquito net\\\" <- \\\"nighttime temps\\\" -> \\\"risk of malaria\\\"\"                                               \n [7] \"\\\"mosquito net\\\" <- health -> \\\"risk of malaria\\\"\"                                                            \n [8] \"\\\"mosquito net\\\" <- health <- income -> \\\"risk of malaria\\\"\"                                                  \n [9] \"\\\"mosquito net\\\" <- income -> \\\"risk of malaria\\\"\"                                                            \n[10] \"\\\"mosquito net\\\" <- income -> health -> \\\"risk of malaria\\\"\"                                                  \n\n$open\n [1]  TRUE  TRUE  TRUE FALSE FALSE  TRUE  TRUE  TRUE  TRUE  TRUE"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#identify-minimal-adjustment-set",
+    "href": "activities/2.3_causal-inference.html#identify-minimal-adjustment-set",
+    "title": "Causal Inference",
+    "section": "Identify Minimal Adjustment Set",
+    "text": "Identify Minimal Adjustment Set\n\n\nadjustmentSets(mosquito_dag)\n\n{ health, income, nighttime temps }\n\n\n\n\n\nThis tells us that we only need to control for health, income, and nighttime temps to identify our causal effect of interest (nets -> malaria risk). We see the same on DAGitty.net."
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#simulated-data",
+    "href": "activities/2.3_causal-inference.html#simulated-data",
+    "title": "Causal Inference",
+    "section": "Simulated Data",
+    "text": "Simulated Data\nHeiss simulated data from 1,752 households to show that mosquito nets cause a reduction in malaria risk of 10 points.\n\n\n# A tibble: 1,752 × 10\n      id net   net_num malaria_risk income health household eligible temperature\n   <dbl> <lgl>   <dbl>        <dbl>  <dbl>  <dbl>     <dbl> <lgl>          <dbl>\n 1     1 TRUE        1           33    781     56         2 FALSE           21.1\n 2     2 FALSE       0           42    974     57         4 FALSE           26.5\n 3     3 FALSE       0           80    502     15         3 FALSE           25.6\n 4     4 TRUE        1           34    671     20         5 TRUE            21.3\n 5     5 FALSE       0           44    728     17         5 FALSE           19.2\n 6     6 FALSE       0           25   1050     48         1 FALSE           25.3\n 7     7 TRUE        1           19   1146     65         3 FALSE           27.4\n 8     8 FALSE       0           35   1093     75         5 FALSE           29.8\n 9     9 FALSE       0           32   1037     60         3 FALSE           27.6\n10    10 FALSE       0           40    828     36         3 FALSE           21.3\n# ℹ 1,742 more rows\n# ℹ 1 more variable: resistance <dbl>"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#naive-vs-adjusted",
+    "href": "activities/2.3_causal-inference.html#naive-vs-adjusted",
+    "title": "Causal Inference",
+    "section": "Naive vs Adjusted",
+    "text": "Naive vs Adjusted\n\nModelResults\n\n\n\nlibrary(modelsummary)\nlibrary(gt)\n\nmodel_naive <- lm(malaria_risk ~ net, data = mosquito_nets)\n\nmodel_adjusted <- lm(malaria_risk ~ net + income + temperature + health,\n                     data = mosquito_nets)\n\n# Heiss's appropriate warning:\n# Making confounding adjustments with linear regression will result in properly identified causal relationships only under very specific circumstances.\n# See https://www.andrewheiss.com/research/chapters/heiss-causal-inference-2021/10-causal-inference.pdf"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#next-steps",
+    "href": "activities/2.3_causal-inference.html#next-steps",
+    "title": "Causal Inference",
+    "section": "Next Steps",
+    "text": "Next Steps\n\nRead about how to test implications of your DAG\nRead more on placebo tests\nRead about other (better) ways for closing back doors"
+  },
+  {
+    "objectID": "activities/2.3_causal-inference.html#other-recommended-reading",
+    "href": "activities/2.3_causal-inference.html#other-recommended-reading",
+    "title": "Causal Inference",
+    "section": "Other Recommended Reading",
+    "text": "Other Recommended Reading\n\nScott Cunningham’s “Causal Inference: The Mixtape”\nNick Huntington-Klein’s “The Effect: An Introduction to Research Design and Causality”\nRichard McElreath’s “Statistical Rethinking”\nMorgan and Winship’s “Counterfactuals and Causal Inference: Methods and Principles for Social Research”\nHernán and Robins’, “Causal Inference: What If”\nDaniel Westreich’s, “Epidemiology by Design”\nMy chapter"
   },
   {
     "objectID": "schedule.html",
