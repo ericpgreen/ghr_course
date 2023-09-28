@@ -16,13 +16,13 @@ By the end of this module, you should be able to:
 ### Prepare
 
 * Read [GHR statistical inference](https://ericpgreen.github.io/ghr_ebook/statinference.html){target="_blank"}.
-* Read [Resnick (2019)](https://www.vox.com/latest-news/2019/3/22/18275913/statistical-significance-p-values-explained)
-* Read [Modern Dive, Chapter 9 (sections 9.1 and 9.2)](https://moderndive.com/9-hypothesis-testing.html#nhst-conclusion)
+* Read [Resnick (2019)](https://www.vox.com/latest-news/2019/3/22/18275913/statistical-significance-p-values-explained){target="_blank"}
+* Read [Modern Dive, Chapter 9 (sections 9.1 and 9.2)](https://moderndive.com/9-hypothesis-testing.html#nhst-conclusion){target="_blank"}
 
 ### During Class
 
-* [Activity 1](https://docs.google.com/document/d/1beOhGCdEdwXHM6l1T8KDmnIPOm84vAQ8oEOxgbnH8g4/edit?usp=sharing)
-* [Deck](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=drive_link)
+* [Activity 1](https://docs.google.com/document/d/1beOhGCdEdwXHM6l1T8KDmnIPOm84vAQ8oEOxgbnH8g4/edit?usp=sharing){target="_blank"}
+* [Deck](https://drive.google.com/file/d/1QwgUMqNcU56PmwSXARDdr-0euefgBvQm/view?usp=drive_link){target="_blank"}
 * Activity 2: On Posit Cloud
 
 ## 2.3 and 2.4: Causal inference and internal validity
@@ -33,7 +33,7 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* [Deck with activities](activities/2.3_causal-inference.html)
+* [Deck with activities](activities/2.3_causal-inference.html){target="_blank"}
 
 ## 2.5 and 2.6: Measurement and construct validation
 
@@ -43,9 +43,9 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* Activity
-* Deck
-
+* [Activity 1](https://docs.google.com/document/d/1My6M1S2tDFW9XPtXNtSes-Fv7ACtVlRcLSqArUWlIXA/edit?usp=sharing){target="_blank"}
+* [Activity 2](https://docs.google.com/document/d/1IQRcc2gUqoIFOB1ikrofQnDIqG7TNY3YOX6_bzvxM30/edit?usp=sharing){target="_blank"}
+* [Deck](https://drive.google.com/file/d/13URJWguj-Zbsnvqp-A5iJIxlH3L5Z20q/view?usp=drive_link){target="_blank"}
 
 ## 2.7: Generalizability and external validity
 
