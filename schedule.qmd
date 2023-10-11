@@ -31,7 +31,7 @@ description: |
 | 12 | Nov 16 | 4. Specify the methods | 4.3 Data collection |
 | 13 | Nov 21 | 4. Specify the methods | 4.4 Review/Assess |
 | 14 | Nov 28 | 5. Practice good science | 5.1 Writing grants and study protocols / Conducting fieldwork and managing data |
-| 14 | Nov 30 | 5. Practice good science | 5.2 Publishing and disseminating your work / Impacting policy and practice |
+| 14 | Nov 30 | 5. Practice good science | 5.2 Publishing and disseminating your work / Impacting policy and practice (Peer review session, 702 only) |
 | 15 | Dec 5 | - | Peer review session (371 only) |
 | 15 | Dec 7 | - | Writing workshop (371 only) |
   
