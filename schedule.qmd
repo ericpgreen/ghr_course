@@ -19,7 +19,7 @@ description: |
 | 6 | Oct 3 | 2. Consider threats to validity | [2.6 Measurement and construct validity](mod2.html#and-2.6-measurement-and-construct-validation) |
 | 6 | Oct 5 | 2. Consider threats to validity | [2.7 Generalizability and external validity](mod2.html#generalizability-and-external-validity) |
 | 7 | Oct 10 | 2. Consider threats to validity | 2.8 Review/Assess |
-| 7 | Oct 12 | 3. Select a research design | 3.1 Experimental |
+| 7 | Oct 12 | 3. Select a research design | [3.1 Experimental](mod3.html#and-3.2-experimental) |
 | 8 | Oct 19 | 3. Select a research design | 3.2 Experimental |
 | 9 | Oct 24 | 3. Select a research design | 3.3 Quasi-experimental |
 | 9 | Oct 26 | 3. Select a research design | 3.4 Quasi-experimental |
