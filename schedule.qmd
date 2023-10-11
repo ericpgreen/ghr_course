@@ -21,10 +21,10 @@ description: |
 | 7 | Oct 10 | 2. Consider threats to validity | 2.8 Review/Assess |
 | 7 | Oct 12 | 3. Select a research design | [3.1 Experimental](mod3.html#and-3.2-experimental) |
 | 8 | Oct 19 | 3. Select a research design | 3.2 Experimental |
-| 9 | Oct 24 | 3. Select a research design | 3.3 Quasi-experimental |
-| 9 | Oct 26 | 3. Select a research design | 3.4 Quasi-experimental |
-| 10 | Oct 31 | 3. Select a research design | 3.5 Confounder-control |
-| 10 | Nov 2 | 3. Select a research design | 3.6 Descriptive |
+| 9 | Oct 24 | 3. Select a research design | No class |
+| 9 | Oct 26 | 3. Select a research design | 3.3 Quasi-experimental |
+| 10 | Oct 31 | 3. Select a research design | 3.4 Quasi-experimental |
+| 10 | Nov 2 | 3. Select a research design | 3.5 Confounder-control / 3.6 Descriptive |
 | 11 | Nov 7 | 3. Select a research design | 3.7 Review/Assess |
 | 11 | Nov 9 | 4. Specify the methods | 4.1 Sampling and participant recruitment |
 | 12 | Nov 14 | 4. Specify the methods | 4.2 Power and sample size |
