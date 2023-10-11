@@ -9,7 +9,7 @@ By the end of this module, you should be able to:
 * Articulate the benefits and limitations of random assignment
 * Explain the logic and limitations of different quasi-experimental and observational designs that can be used when randomization is not possible or ethical
 
-## 3.1: Experimental
+## 3.1 and 3.2: Experimental
 
 In global health, we're often interested in knowing what treatments, programs, interventions, and policies "work" and why. To answer questions of impact, we often turn to randomized controlled trials, a mainstay of medical research. In this session we'll explore the rationale, process, and limitations of experiments.
 
@@ -25,6 +25,7 @@ In global health, we're often interested in knowing what treatments, programs, i
 * [Deck](https://drive.google.com/file/d/1KNEZYlgiutbOpZ988-U-z694_KJJUEpK/view?usp=share_link)
 * [Activity](https://docs.google.com/document/d/1iDar3zonTYEQ3yE1AAiD_-pbwP5Fe8UvWbSJGEzOp1U/edit?usp=sharing)
 
+<!--
 ## 3.2-3.4: Quasi-experimental
 
 When randomization is not possible or ethical, we have to rely on nonrandomized studies for causal inference. There are two main types of nonrandomized studies: quasi-experimental and observational. The quasi-experimental designs we'll discuss in this session all feature a cause that is manipulated prior to observing the outcome, but they lack random assignment.  
@@ -81,4 +82,4 @@ Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"}
 |:------------------------------|:---------|
 | [Module 3 homework](https://docs.google.com/document/d/17qy2CRxejEAkLLNpIhEFlF8YmVuppEjO7yIBZORopsw/edit?usp=sharing){target="_blank"}            | Mar 23      |
 
-
+-->
