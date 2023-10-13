@@ -25,10 +25,9 @@ In global health, we're often interested in knowing what treatments, programs, i
 * [Deck](https://drive.google.com/file/d/1KNEZYlgiutbOpZ988-U-z694_KJJUEpK/view?usp=share_link)
 * [Activity](https://docs.google.com/document/d/1iDar3zonTYEQ3yE1AAiD_-pbwP5Fe8UvWbSJGEzOp1U/edit?usp=sharing)
 
-<!--
-## 3.2-3.4: Quasi-experimental
+## 3.3-3.4: Quasi-experimental
 
-When randomization is not possible or ethical, we have to rely on nonrandomized studies for causal inference. There are two main types of nonrandomized studies: quasi-experimental and observational. The quasi-experimental designs we'll discuss in this session all feature a cause that is manipulated prior to observing the outcome, but they lack random assignment.  
+When randomization is not possible or ethical, we have to rely on nonrandomized studies for causal inference. There are two main types of nonrandomized studies: quasi-experimental and observational. The quasi-experimental designs we'll discuss in these sessions all feature a cause that is manipulated prior to observing the outcome, but they lack random assignment.  
 
 ### Prepare
 
@@ -56,7 +55,7 @@ Snow observed that the Southwark and Vauxhall Company and the Lambeth Company su
 Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"} taken from Snow’s original 1855 article to reproduce Snow’s difference-in-difference estimates.
 
 ![](images/snowtable.png)
-
+<!--
 ## 3.5: Confounder-control / Descriptive
 
 ### Prepare
