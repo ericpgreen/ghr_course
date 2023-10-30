@@ -56,7 +56,7 @@ Snow observed that the Southwark and Vauxhall Company and the Lambeth Company su
 Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"} taken from Snow’s original 1855 article to reproduce Snow’s difference-in-difference estimates.
 
 ![](images/snowtable.png)
-<!--
+
 ## 3.5: Confounder-control / Descriptive
 
 ### Prepare
@@ -71,15 +71,17 @@ Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"}
 
 ### During Class
 
+<!--
 * [Deck](https://drive.google.com/file/d/1aIeNlvLznIqZaWDuYOOlqqUly2IM9BZ2/view?usp=share_link)
 * [Activity](https://docs.google.com/document/d/1StXoyZW6qQFwOC2iWIBVwESgb1a6wbaQ6eoNb0cE3kU/edit?usp=sharing)
 * [Bonus](https://docs.google.com/document/d/1s4EzHmO0UuBMB0gLj_XFUr-KC0Utx1Vdvn_XzqVuIXE/edit)
-
+-->
 
 ## Homework
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 3 homework](https://docs.google.com/document/d/17qy2CRxejEAkLLNpIhEFlF8YmVuppEjO7yIBZORopsw/edit?usp=sharing){target="_blank"}            | Mar 23      |
+| [Module 3 homework](https://docs.google.com/document/d/17qy2CRxejEAkLLNpIhEFlF8YmVuppEjO7yIBZORopsw/edit?usp=sharing){target="_blank"}            | Nov 14      |
 
--->
+
+
