@@ -40,20 +40,12 @@ By the end of this module, you should be able to:
 
 * [JPAL Survey Design](https://www.povertyactionlab.org/resource/survey-design)
 * Chapter 5 "Outcomes and Instruments" in Glennerster, R. & Takavarasha, K. (2013). Running Randomized Evaluations: A Practical Guide (Box)
-
-### During Class
-
-* [Deck](https://drive.google.com/file/d/13byszG_4R2yhYG8xVczDeGYNr1IXv15V/view?usp=share_link)
-
-## 4.4: Qualitative and Mixed Methods
-
-### Prepare
-
 * FHI360 [Qualitative Research Methods Field Guide](https://www.fhi360.org/resource/qualitative-research-methods-data-collectors-field-guide) (read Module 1, skim Modules 2-4)
 * Haberland, N. A., Kelly, C. A., Mulenga, D. M., Mensch, B. S., & Hewett, P. C. (2016). Women’s perceptions and misperceptions of male circumcision: a mixed methods study in Zambia. [*PloS one, 11(3), e0149517*](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149517).
 
 ### During Class
 
+* [Deck](https://drive.google.com/file/d/13byszG_4R2yhYG8xVczDeGYNr1IXv15V/view?usp=share_link)
 * [Deck](https://drive.google.com/file/d/1h29_4gxk7AlYDZsfx1AOACxID7bNdW5m/view?usp=share_link)
 * Activity: Interviewing
 
@@ -61,6 +53,6 @@ By the end of this module, you should be able to:
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 4 homework](https://docs.google.com/document/d/1QL3fNAflkj74Cs-RKew4Xk2s-jNIzThgoDHs50nmD0U/edit?usp=sharing){target="_blank"}            | Apr 11      |
+| [Module 4 homework](https://docs.google.com/document/d/1QL3fNAflkj74Cs-RKew4Xk2s-jNIzThgoDHs50nmD0U/edit?usp=sharing){target="_blank"}            | Nov 30      |
 
 
