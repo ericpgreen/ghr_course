@@ -26,12 +26,11 @@ description: |
 | 10 | Oct 31 | 3. Select a research design | 3.4 Quasi-experimental |
 | 10 | Nov 2 | 3. Select a research design | 3.5 Confounder-control / 3.6 Descriptive |
 | 11 | Nov 7 | 3. Select a research design | 3.7 Review/Assess |
-| 11 | Nov 9 | 4. Specify the methods | 4.1 Sampling and participant recruitment |
-| 12 | Nov 14 | 4. Specify the methods | 4.2 Power and sample size |
+| 12 | Nov 14 | 4. Specify the methods | 4.1 Sampling / 4.2 Sample size |
 | 12 | Nov 16 | 4. Specify the methods | 4.3 Data collection |
 | 13 | Nov 21 | 4. Specify the methods | 4.4 Review/Assess |
-| 14 | Nov 28 | 5. Practice good science | 5.1 Writing grants and study protocols / Conducting fieldwork and managing data |
-| 14 | Nov 30 | 5. Practice good science | 5.2 Publishing and disseminating your work / Impacting policy and practice (Peer review session, 702 only) |
-| 15 | Dec 5 | - | Peer review session (371 only) |
-| 15 | Dec 7 | - | Writing workshop (371 only) |
+| 14 | Nov 28 | 5. Practice good science | 5.1 All the things |
+| 14 | Nov 30 | 5. Practice good science | 5.2 Peer review session (702) / Writing workshop (371) |
+| 15 | Dec 5 | 5. Practice good science | 5.3 Peer review session (371 only) |
+| 15 | Dec 7 | 5. Practice good science | 5.4 Writing workshop (371 only) |
   
