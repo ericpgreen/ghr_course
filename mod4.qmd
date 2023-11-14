@@ -20,7 +20,7 @@ By the end of this module, you should be able to:
 
 ### During Class
 
-* [Deck](https://drive.google.com/file/d/1m1gS02bcE70CIU7O18-lpPo2eAZH-4jJ/view?usp=share_link)
+* [Deck](https://drive.google.com/file/d/15B1Q6Gs23bdeqPWrix8jbooazWZVa-Tp/view?usp=sharing)
 * Activity
 
 ## 4.2: Power and Sample Size
@@ -28,11 +28,11 @@ By the end of this module, you should be able to:
 ### Prepare
 
 * Chapter 6 "Statistical Power" in Glennerster, R. & Takavarasha, K. (2013). Running Randomized Evaluations: A Practical Guide (Box)
-* [Chapter 8 "Sample Size Justification"](https://lakens.github.io/statistical_inferences/power.html) in Lakens, D. (2022). Improving Your Statistical Inferences. https://doi.org/10.5281/zenodo.6409077
+* [Chapter 8 "Sample Size Justification"](https://lakens.github.io/statistical_inferences/08-samplesizejustification.html) in Lakens, D. (2022). Improving Your Statistical Inferences. https://doi.org/10.5281/zenodo.6409077
 
 ### During Class
 
-* [Deck](https://drive.google.com/file/d/1m1gS02bcE70CIU7O18-lpPo2eAZH-4jJ/view?usp=share_link)
+* [Deck](https://drive.google.com/file/d/15B1Q6Gs23bdeqPWrix8jbooazWZVa-Tp/view?usp=sharing)
 
 ## 4.3: Data Collection
 
