@@ -20,14 +20,14 @@ description: |
 | 6 | Oct 5 | 2. Consider threats to validity | [2.7 Generalizability and external validity](mod2.html#generalizability-and-external-validity) |
 | 7 | Oct 10 | 2. Consider threats to validity | 2.8 Review/Assess |
 | 7 | Oct 12 | 3. Select a research design | [3.1 Experimental](mod3.html#and-3.2-experimental) |
-| 8 | Oct 19 | 3. Select a research design | 3.2 Experimental |
+| 8 | Oct 19 | 3. Select a research design | [3.2 Experimental](mod3.html#and-3.2-experimental) |
 | 9 | Oct 24 | 3. Select a research design | No class |
-| 9 | Oct 26 | 3. Select a research design | 3.3 Quasi-experimental |
-| 10 | Oct 31 | 3. Select a research design | 3.4 Quasi-experimental |
-| 10 | Nov 2 | 3. Select a research design | 3.5 Confounder-control / 3.6 Descriptive |
+| 9 | Oct 26 | 3. Select a research design | 3.3 [Quasi-experimental](mod3.html#quasi-experimental) |
+| 10 | Oct 31 | 3. Select a research design | [3.4 Quasi-experimental](mod3.html#quasi-experimental) |
+| 10 | Nov 2 | 3. Select a research design | [3.5 Confounder-control / 3.6 Descriptive](mod3.html#confounder-control-descriptive) |
 | 11 | Nov 7 | 3. Select a research design | 3.7 Review/Assess |
-| 12 | Nov 14 | 4. Specify the methods | 4.1 Sampling / 4.2 Sample size |
-| 12 | Nov 16 | 4. Specify the methods | 4.3 Data collection |
+| 12 | Nov 14 | 4. Specify the methods | [4.1 Sampling / 4.2 Sample size](mod4.html#sampling) |
+| 12 | Nov 16 | 4. Specify the methods | [4.3 Data collection](mod4.html#data-collection) |
 | 13 | Nov 21 | 4. Specify the methods | 4.4 Review/Assess |
 | 14 | Nov 28 | 5. Practice good science | 5.1 All the things |
 | 14 | Nov 30 | 5. Practice good science | 5.2 Peer review session (702) / Writing workshop (371) |
