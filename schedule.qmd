@@ -29,7 +29,7 @@ description: |
 | 12 | Nov 14 | 4. Specify the methods | [4.1 Sampling / 4.2 Sample size](mod4.html#sampling) |
 | 12 | Nov 16 | 4. Specify the methods | [4.3 Data collection](mod4.html#data-collection) |
 | 13 | Nov 21 | 4. Specify the methods | 4.4 Review/Assess |
-| 14 | Nov 28 | 5. Practice good science | 5.1 All the things |
+| 14 | Nov 28 | 5. Practice good science | 5.1 All the things ([activity](https://docs.google.com/document/d/1fdhJ6-ztv2ei5NuHxqAr2fct5le5kE5OdzNU0kjP7i4/edit?usp=sharing)) |
 | 14 | Nov 30 | 5. Practice good science | 5.2 Peer review session (702) / Writing workshop (371) |
 | 15 | Dec 5 | 5. Practice good science | 5.3 Peer review session (371 only) |
 | 15 | Dec 7 | 5. Practice good science | 5.4 Writing workshop (371 only) |
