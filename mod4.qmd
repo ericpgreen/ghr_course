@@ -53,6 +53,6 @@ By the end of this module, you should be able to:
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 4 homework](https://docs.google.com/document/d/1QL3fNAflkj74Cs-RKew4Xk2s-jNIzThgoDHs50nmD0U/edit?usp=sharing){target="_blank"}            | Nov 30      |
+| [Module 4 homework](https://docs.google.com/document/d/1QL3fNAflkj74Cs-RKew4Xk2s-jNIzThgoDHs50nmD0U/edit?usp=sharing){target="_blank"}            | Apr 16      |
 
 

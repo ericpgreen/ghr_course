@@ -57,7 +57,7 @@ Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"}
 
 ![](images/snowtable.png)
 
-## 3.5: Confounder-control / Descriptive
+## 3.5-3.6: Confounder-control / Descriptive
 
 ### Prepare
 
@@ -81,7 +81,7 @@ Use [this table](http://www.ph.ucla.edu/epi/snow/table12a.html){target="_blank"}
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 3 homework](https://docs.google.com/document/d/17qy2CRxejEAkLLNpIhEFlF8YmVuppEjO7yIBZORopsw/edit?usp=sharing){target="_blank"}            | Nov 14      |
+| [Module 3 homework](https://docs.google.com/document/d/17qy2CRxejEAkLLNpIhEFlF8YmVuppEjO7yIBZORopsw/edit?usp=sharing){target="_blank"}            | Apr 2      |
 
 
 

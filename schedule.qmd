@@ -1,36 +1,42 @@
 ---
 title: "Schedule"
 description: |
-  Spring 2023
+  Spring 2024
 ---
 
 | Week | Date | Module | Session |
 |- | --- | --- | ---- |
-| 1 | Aug 29 | - | 1.1 Welcome |
-| 1 | Aug 31 | 1. Get started | [1.2 Global health research](mod1.html#global-health-research) |
-| 2 | Sept 5 | 1. Get started | [1.3 Build collaborations / Develop research ideas and questions](mod1.html#build-collaborations-develop-questions) |
-| 2 | Sept 7 | 1. Get started | [1.4 Search the literature / Read scientific articles](mod1.html#search-the-literature-read-scientific-articles) |
-| 3 | Sept 12 | 1. Get started | 1.5 Review/Assess |
-| 3 | Sept 14 | 2. Consider threats to validity | [2.1 Statistical inference and statistical conclusion validity](mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity) |
-| 4 | Sept 19 | 2. Consider threats to validity | [2.2 Statistical inference and statistical conclusion validity](mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity) |
-| 4 | Sept 21 | 2. Consider threats to validity | [2.3 Causal inference and internal validity](mod2.html#and-2.4-causal-inference-and-internal-validity) |
-| 5 | Sept 26 | 2. Consider threats to validity | [2.4 Causal inference and internal validity](mod2.html#and-2.4-causal-inference-and-internal-validity) |
-| 5 | Sept 28 | 2. Consider threats to validity | [2.5 Measurement and construct validity](mod2.html#and-2.6-measurement-and-construct-validation) |
-| 6 | Oct 3 | 2. Consider threats to validity | [2.6 Measurement and construct validity](mod2.html#and-2.6-measurement-and-construct-validation) |
-| 6 | Oct 5 | 2. Consider threats to validity | [2.7 Generalizability and external validity](mod2.html#generalizability-and-external-validity) |
-| 7 | Oct 10 | 2. Consider threats to validity | 2.8 Review/Assess |
-| 7 | Oct 12 | 3. Select a research design | [3.1 Experimental](mod3.html#and-3.2-experimental) |
-| 8 | Oct 19 | 3. Select a research design | [3.2 Experimental](mod3.html#and-3.2-experimental) |
-| 9 | Oct 24 | 3. Select a research design | No class |
-| 9 | Oct 26 | 3. Select a research design | 3.3 [Quasi-experimental](mod3.html#quasi-experimental) |
-| 10 | Oct 31 | 3. Select a research design | [3.4 Quasi-experimental](mod3.html#quasi-experimental) |
-| 10 | Nov 2 | 3. Select a research design | [3.5 Confounder-control / 3.6 Descriptive](mod3.html#confounder-control-descriptive) |
-| 11 | Nov 7 | 3. Select a research design | 3.7 Review/Assess |
-| 12 | Nov 14 | 4. Specify the methods | [4.1 Sampling / 4.2 Sample size](mod4.html#sampling) |
-| 12 | Nov 16 | 4. Specify the methods | [4.3 Data collection](mod4.html#data-collection) |
-| 13 | Nov 21 | 4. Specify the methods | 4.4 Review/Assess |
-| 14 | Nov 28 | 5. Practice good science | 5.1 All the things ([activity](https://docs.google.com/document/d/1fdhJ6-ztv2ei5NuHxqAr2fct5le5kE5OdzNU0kjP7i4/edit?usp=sharing)) |
-| 14 | Nov 30 | 5. Practice good science | 5.2 Peer review session (702) / Writing workshop (371) |
-| 15 | Dec 5 | 5. Practice good science | 5.3 Peer review session (371 only) |
-| 15 | Dec 7 | 5. Practice good science | 5.4 Writing workshop (371 only) |
-  
+| 1 | Jan 11 | - | 1.1 Welcome |
+| 2 | Jan 16 | 1. Get started | [1.2 Global health research](mod1.html#global-health-research) |
+| 2 | Jan 18 | 1. Get started | [1.3 Build collaborations / Develop research ideas and questions](mod1.html#build-collaborations-develop-questions) |
+| 3 | Jan 23 | 1. Get started | [1.4 Search the literature / Read scientific articles](mod1.html#search-the-literature-read-scientific-articles) |
+| 3 | Jan 25 | 1. Get started | 1.5 Review/Assess |
+| 4 | Jan 30 | 2. Consider threats to validity | [2.1 Statistical inference and statistical conclusion validity](mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity) |
+| 4 | Feb 1 | 2. Consider threats to validity | [2.2 Statistical inference and statistical conclusion validity](mod2.html#and-2.2-statistical-inference-and-statistical-conclusion-validity) |
+| 5 | Feb 6 | 2. Consider threats to validity | [2.3 Causal inference and internal validity](mod2.html#and-2.4-causal-inference-and-internal-validity) |
+| 5 | Feb 8 | 2. Consider threats to validity | [2.4 Causal inference and internal validity](mod2.html#and-2.4-causal-inference-and-internal-validity) |
+| 6 | Feb 13 | 2. Consider threats to validity | [2.5 Measurement and construct validity](mod2.html#and-2.6-measurement-and-construct-validation) |
+| 6 | Feb 15 | 2. Consider threats to validity | [2.6 Measurement and construct validity](mod2.html#and-2.6-measurement-and-construct-validation) |
+| 7 | Feb 20 | 2. Consider threats to validity | [2.7 Generalizability and external validity](mod2.html#generalizability-and-external-validity) |
+| 7 | Feb 22 | 2. Consider threats to validity | 2.8 Review/Assess |
+| 8 | Feb 27 | 3. Select a research design | [3.1 Experimental](mod3.html#and-3.2-experimental) |
+| 8 | Feb 29 | 3. Select a research design | [3.2 Experimental](mod3.html#and-3.2-experimental) |
+| 9 | Mar 5 | 3. Select a research design | 3.3 [Quasi-experimental](mod3.html#quasi-experimental) |
+| 9 | Mar 7 | 3. Select a research design | [3.4 Quasi-experimental](mod3.html#quasi-experimental) |
+| 10 | Mar 19 | 3. Select a research design | 3.5 Confounder-control |
+| 10 | Mar 21 | 3. Select a research design | 3.6 Descriptive |
+| 11 | Mar 26 | 3. Select a research design | 3.7 Review/Assess |
+| 11 | Mar 28 | No class | No class |
+| 12 | Apr 2 | 4. Specify the methods | [4.1 Sampling / 4.2 Sample size](mod4.html#sampling) |
+| 12 | Apr 4 | 4. Specify the methods | [4.3 Data collection](mod4.html#data-collection) |
+| 13 | Apr 9 | 4. Specify the methods | 4.4 Review/Assess |
+| 13 | Apr 11 | 5. Practice good science | 5.1 All the things |
+| 14 | Apr 16 | 5. Practice good science | 5.2 Writing workshop |
+| 14 | Apr 18 | 5. Practice good science | 5.3 Peer review session |
+| 15 | Apr 23 | 5. Practice good science | 5.4 Writing workshop |
+
+<!--
+| 14 | Apr 16 | 5. Practice good science | 5.2 Peer review / Writing workshop (371) |
+| 14 | Apr 18 | 5. Practice good science | 5.3 Peer review session (371 only) |
+| 15 | Apr 23 | 5. Practice good science | 5.4 Writing workshop (371 only) |
+-->

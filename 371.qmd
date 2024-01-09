@@ -1,14 +1,12 @@
 ---
 title: "Syllabus"
 description: |
-  Duke University, Fall 2023
+  Duke University, Spring 2024
 ---
 
 ## Teaching Team
 
 [Eric Green](https://globalhealth.duke.edu/people/green-eric), PhD
-
-Maddie Metcalf, TA
 
 This course will introduce you to research designs and methods in global health. Global health is a multi-disciplinary field, so we will consider approaches common to the behavioral and social sciences, public health, and medicine.
 
