@@ -26,10 +26,10 @@ description: |
 | 10 | Oct 29 | 3. Select a research design | 3.5 Confounder-control |
 | 10 | Oct 31 | 3. Select a research design | 3.6 Descriptive |
 | 11 | Nov 5 | 3. Select a research design | 3.7 Review/Assess |
-| 11 | Nov 7 | No class | No class |
-| 12 | Nov 12 | 4. Specify the methods | [4.1 Sampling / 4.2 Sample size](mod4.html#sampling) |
-| 12 | Nov 14 | 4. Specify the methods | [4.3 Data collection](mod4.html#data-collection) |
-| 13 | Nov 19 | 4. Specify the methods | 4.4 Review/Assess |
+| 11 | Nov 7 | 4. Specify the methods | [4.1 Sampling / 4.2 Sample size](mod4.html#sampling) |
+| 12 | Nov 12 | 4. Specify the methods | [4.3 Data collection](mod4.html#data-collection) |
+| 12 | Nov 14 | 4. Specify the methods | 4.4 Review/Assess |
+| 13 | Nov 19 | 
 | 13 | Nov 21 | 5. Practice good science | 5.1 All the things |
 | 14 | Nov 26 | 5. Practice good science | 5.2 Writing workshop (371/309) / Peer review session (702) |
 | 14 | Dec 3 | 5. Practice good science | 5.3 Peer review session (371/309) |

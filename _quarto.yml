@@ -6,6 +6,7 @@ website:
   title: "Global Health Research"
   navbar:
     background: '#1f9ac9'
+    foreground: '#ffffff'
     left:
     - text: "GLHLTH 371 / PSY 309"
       href: 371.html
@@ -24,6 +25,7 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
+    linkcolor: '#1f9ac9'
 
 
 
