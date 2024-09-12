@@ -18,6 +18,8 @@ website:
       menu:
         - text: "Module 1"
           href: mod1.html
+        - text: "Module 2"
+          href: mod2.html
 
 
 format:

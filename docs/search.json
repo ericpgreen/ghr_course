@@ -459,7 +459,7 @@
     "href": "activities/2.3_causal-inference.html#list-the-pathways",
     "title": "Causal Inference",
     "section": "List the Pathways",
-    "text": "List the Pathways\n\n\n\n\n\n\nThere is a direct path between mosquito net use and the risk of malaria, but the effect is not causally identified due to several other open paths. List all of the paths and find which open paths have arrows pointing backwards into the mosquito net node.\n\n\n\n\n\n−+\n03:00"
+    "text": "List the Pathways\n\n\n\n\n\n\nThere is a direct path between mosquito net use and the risk of malaria, but the effect is not causally identified due to several other open paths. List all of the paths and find which open paths have arrows pointing backwards into the mosquito net node.\n\n\n\n\n−+\n03:00"
   },
   {
     "objectID": "activities/2.3_causal-inference.html#two-shortcuts",
