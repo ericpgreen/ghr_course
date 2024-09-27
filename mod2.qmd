@@ -65,5 +65,5 @@ By the end of this module, you should be able to:
 
 | Assignment                    | Due Date |
 |:------------------------------|:---------|
-| [Module 2 homework](https://docs.google.com/document/d/1DV30QSgUJCVVAIO488k5Ckl5CseCWV_zexasF9T9x4s/edit?usp=sharing){target="_blank"}            | Feb 29      |
+| [Module 2 homework](https://docs.google.com/document/d/1DV30QSgUJCVVAIO488k5Ckl5CseCWV_zexasF9T9x4s/edit?usp=sharing){target="_blank"}            | Oct 17      |
 
