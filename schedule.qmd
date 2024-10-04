@@ -16,7 +16,7 @@ description: |
 | 4 | Sept 19 | 2. Consider threats to validity | [2.3 Causal inference and internal validity](mod2.html#and-2.4-causal-inference-and-internal-validity) |
 | 5 | Sept 26 | 2. Consider threats to validity | [2.4 Causal inference and internal validity](mod2.html#and-2.4-causal-inference-and-internal-validity) |
 | 6 | Oct 1 | 2. Consider threats to validity | [2.5 Measurement and construct validity](mod2.html#and-2.6-measurement-and-construct-validation) |
-| 6 | Oct 3 | 2. Consider threats to validity | [2.7 Generalizability and external validity](mod2.html#generalizability-and-external-validity) |
+| 6 | Oct 3 | 2. Consider threats to validity | [2.6 Generalizability and external validity](mod2.html#generalizability-and-external-validity) |
 | 7 | Oct 8 | Global Mental Health Conference at Duke [register](https://globalhealth.duke.edu/events/2024-duke-global-mental-health-conference) |
 | 7 | Oct 10 | 2. Consider threats to validity | 2.8 Review/Assess |
 | 8 | Oct 17 | 3. Select a research design | [3.1 Experimental](mod3.html#and-3.2-experimental) |

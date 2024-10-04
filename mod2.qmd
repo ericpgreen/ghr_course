@@ -35,7 +35,7 @@ By the end of this module, you should be able to:
 
 * [Deck with activities](activities/2.3_causal-inference.html){target="_blank"}
 
-## 2.5 and 2.6: Measurement and construct validation
+## 2.5: Measurement and construct validation
 
 ### Prepare
 
@@ -47,7 +47,7 @@ By the end of this module, you should be able to:
 * [Activity 2](https://docs.google.com/document/d/1IQRcc2gUqoIFOB1ikrofQnDIqG7TNY3YOX6_bzvxM30/edit?usp=sharing){target="_blank"}
 * [Deck](https://drive.google.com/file/d/13URJWguj-Zbsnvqp-A5iJIxlH3L5Z20q/view?usp=drive_link){target="_blank"}
 
-## 2.7: Generalizability and external validity
+## 2.6: Generalizability and external validity
 
 ### Prepare
 
